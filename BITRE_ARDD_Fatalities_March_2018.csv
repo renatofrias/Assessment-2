@@ -1,0 +1,1530 @@
+Crash ID,State,Month,Year,Dayweek,Time,Crash_Type,Bus_Involvement,Rigid_Truck_Involvement,Articulated_Truck_Involvement ,Speed_Limit,Road_User,Gender,Age
+20181001,NSW,March,2018,Tuesday,07:18,Multiple vehicle,No,Yes,No,50,Bicyclist (includes pillion passengers),Male,29
+20181005,NSW,March,2018,Monday,18:25,Multiple vehicle,No,No,No,50,Driver,Male,41
+20181007,NSW,March,2018,Friday,08:00,Pedestrian,No,No,No,50,Pedestrian,Male,55
+20181012,NSW,March,2018,Friday,16:05,Multiple vehicle,No,Yes,No,80,Driver,Female,17
+20181016,NSW,March,2018,Sunday,01:45,Single vehicle,No,No,No,80,Driver,Female,24
+20181022,NSW,March,2018,Saturday,12:45,Single vehicle,No,No,No,80,Motorcycle rider,Male,35
+20181025,NSW,March,2018,Tuesday,22:00,Single vehicle,No,No,No,100,Driver,Male,22
+20181026,NSW,March,2018,Monday,20:36,Multiple vehicle,No,No,No,70,Motorcycle rider,Male,20
+20181027,NSW,March,2018,Friday,16:50,Multiple vehicle,No,No,Yes,110,Driver,Male,46
+20181028,NSW,March,2018,Friday,23:15,Pedestrian,No,No,No,100,Pedestrian,Female,29
+20181047,NSW,March,2018,Friday,18:55,Multiple vehicle,No,No,Yes,50,Driver,Male,87
+20181050,NSW,March,2018,Saturday,15:20,Single vehicle,No,No,No,80,Passenger,Male,17
+20181052,NSW,March,2018,Saturday,02:50,Single vehicle,No,No,No,50,Driver,Male,35
+20181053,NSW,March,2018,Wednesday,23:30,Single vehicle,No,No,No,60,Driver,Female,28
+20181055,NSW,March,2018,Saturday,10:00,Multiple vehicle,No,No,No,100,Motorcycle rider,Male,64
+20181058,NSW,March,2018,Friday,11:10,Pedestrian,No,No,No,60,Pedestrian,Female,82
+20181062,NSW,March,2018,Thursday,15:13,Multiple vehicle,No,No,No,80,Passenger,Female,84
+20181065,NSW,March,2018,Thursday,15:00,Single vehicle,No,No,No,100,Driver,Male,62
+20181067,NSW,March,2018,Monday,13:43,Multiple vehicle,No,No,No,50,Motorcycle rider,Male,30
+20181069,NSW,March,2018,Monday,16:30,Single vehicle,No,No,No,60,Driver,Male,71
+20181071,NSW,March,2018,Sunday,10:55,Multiple vehicle,Yes,No,No,110,Driver,Male,61
+20181073,NSW,March,2018,Wednesday,01:00,Single vehicle,No,No,No,80,Passenger,Male,30
+20181075,NSW,March,2018,Monday,20:34,Pedestrian,No,No,No,50,Pedestrian,Male,66
+20181082,NSW,March,2018,Saturday,20:00,Single vehicle,No,No,No,100,Motorcycle rider,Male,42
+20181086,NSW,March,2018,Thursday,18:43,Single vehicle,No,No,No,100,Passenger,Male,33
+20182004,VIC,March,2018,Wednesday,15:00,Multiple vehicle,No,-9,No,-9,Passenger,-9,0
+20182005,VIC,March,2018,Saturday,05:20,Single vehicle,No,-9,No,60,Driver,Male,26
+20182008,VIC,March,2018,Wednesday,18:05,Single vehicle,No,-9,No,-9,Driver,Female,68
+20182009,VIC,March,2018,Saturday,02:30,Pedestrian,No,-9,No,-9,Pedestrian,-9,0
+20182011,VIC,March,2018,Friday,13:05,Single vehicle,No,-9,No,-9,Motorcycle rider,Male,60
+20182013,VIC,March,2018,Thursday,23:30,Single vehicle,No,-9,No,-9,Driver,Male,37
+20182023,VIC,March,2018,Wednesday,09:25,Pedestrian,Yes,-9,No,40,Pedestrian,Female,96
+20182024,VIC,March,2018,Monday,06:50,Single vehicle,No,-9,No,100,Passenger,Male,20
+20182027,VIC,March,2018,Saturday,14:50,Multiple vehicle,No,-9,No,-9,Motorcycle rider,Male,56
+20182029,VIC,March,2018,Tuesday,06:45,Multiple vehicle,No,-9,No,-9,Driver,Male,26
+20182030,VIC,March,2018,Wednesday,11:15,Single vehicle,No,-9,No,-9,Driver,Male,42
+20182035,VIC,March,2018,Thursday,10:20,Pedestrian,No,-9,No,-9,Pedestrian,Male,86
+20182036,VIC,March,2018,Monday,16:50,Multiple vehicle,No,-9,No,-9,Motorcycle rider,Male,54
+20182037,VIC,March,2018,Friday,07:30,Multiple vehicle,No,-9,No,-9,Passenger,Female,19
+20182040,VIC,March,2018,Friday,03:30,Single vehicle,No,-9,No,-9,Driver,Male,19
+20182041,VIC,March,2018,Monday,14:29,Single vehicle,No,-9,No,-9,Motorcycle rider,Male,32
+20182043,VIC,March,2018,Friday,15:14,Multiple vehicle,No,-9,No,-9,Driver,Male,74
+20182044,VIC,March,2018,Saturday,01:15,Single vehicle,No,-9,No,100,Driver,Male,66
+20182045,VIC,March,2018,Tuesday,17:30,Multiple vehicle,No,-9,No,50,Driver,Male,19
+20182054,VIC,March,2018,Friday,14:00,Pedestrian,No,-9,No,60,Pedestrian,Male,81
+20182055,VIC,March,2018,Friday,11:05,Multiple vehicle,No,-9,No,-9,Motorcycle rider,Male,31
+20183001,QLD,March,2018,Monday,12:00,Multiple vehicle,No,Yes,No,90,Driver,Female,55
+20183003,QLD,March,2018,Saturday,10:00,Multiple vehicle,No,No,No,100,Driver,Male,34
+20183008,QLD,March,2018,Monday,05:00,Multiple vehicle,No,No,No,70,Driver,Male,21
+20183009,QLD,March,2018,Friday,11:00,Multiple vehicle,No,No,No,60,Passenger,Female,89
+20183013,QLD,March,2018,Sunday,18:00,Pedestrian,No,No,No,60,Pedestrian,Male,4
+20183017,QLD,March,2018,Friday,11:00,Multiple vehicle,No,No,No,80,Driver,Female,77
+20183017,QLD,March,2018,Friday,11:00,Multiple vehicle,No,No,No,80,Driver,Male,62
+20183019,QLD,March,2018,Tuesday,23:00,Single vehicle,No,No,No,60,Passenger,Female,17
+20183021,QLD,March,2018,Saturday,02:00,Single vehicle,No,No,No,60,Passenger,Male,19
+20183023,QLD,March,2018,Friday,07:00,Single vehicle,No,No,No,100,Driver,Male,43
+20183027,QLD,March,2018,Sunday,03:00,Multiple vehicle,No,No,No,60,Driver,Female,26
+20183029,QLD,March,2018,Saturday,00:00,Single vehicle,No,No,No,100,Passenger,Male,16
+20183038,QLD,March,2018,Friday,15:00,Multiple vehicle,No,Yes,No,80,Driver,Male,24
+20183039,QLD,March,2018,Saturday,17:00,Multiple vehicle,No,No,No,60,Driver,Female,56
+20183041,QLD,March,2018,Thursday,08:00,Multiple vehicle,No,No,Yes,100,Driver,Male,56
+20183043,QLD,March,2018,Monday,06:00,Single vehicle,No,No,Yes,100,Driver,Male,27
+20183046,QLD,March,2018,Sunday,03:00,Single vehicle,No,No,No,100,Passenger,Male,23
+20183046,QLD,March,2018,Sunday,03:00,Single vehicle,No,No,No,100,Driver,Male,49
+20183047,QLD,March,2018,Tuesday,10:00,Multiple vehicle,No,No,Yes,90,Driver,Male,81
+20183049,QLD,March,2018,Friday,19:00,Single vehicle,No,No,No,60,Driver,Female,20
+20183050,QLD,March,2018,Sunday,11:00,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,73
+20183051,QLD,March,2018,Friday,21:00,Multiple vehicle,No,No,No,100,Driver,Male,27
+20183052,QLD,March,2018,Wednesday,16:00,Single vehicle,No,No,No,110,Motorcycle rider,Male,-9
+20183053,QLD,March,2018,Wednesday,15:00,Multiple vehicle,No,No,No,80,Motorcycle rider,Female,43
+20183055,QLD,March,2018,Monday,08:00,Multiple vehicle,No,Yes,No,100,Driver,Male,63
+20183055,QLD,March,2018,Monday,08:00,Multiple vehicle,No,Yes,No,100,Passenger,Female,63
+20183056,QLD,March,2018,Saturday,21:00,Multiple vehicle,No,No,No,70,Driver,Male,72
+20183057,QLD,March,2018,Thursday,11:00,Single vehicle,No,No,No,100,Driver,Male,39
+20184001,SA,March,2018,Monday,16:20,Multiple vehicle,No,No,No,60,Bicyclist (includes pillion passengers),Male,28
+20184002,SA,March,2018,Thursday,10:30,Multiple vehicle,No,No,Yes,60,Bicyclist (includes pillion passengers),Male,69
+20184004,SA,March,2018,Tuesday,04:56,Single vehicle,No,No,No,60,Driver,Male,49
+20184005,SA,March,2018,Wednesday,06:00,Multiple vehicle,No,No,Yes,110,Driver,Male,42
+20184006,SA,March,2018,Thursday,09:20,Multiple vehicle,No,No,No,100,Bicyclist (includes pillion passengers),Male,80
+20184009,SA,March,2018,Tuesday,18:43,Multiple vehicle,No,No,No,60,Driver,Male,63
+20184011,SA,March,2018,Thursday,08:20,Single vehicle,No,No,No,60,Motorcycle rider,Male,44
+20184012,SA,March,2018,Sunday,11:35,Multiple vehicle,No,No,No,110,Driver,Female,67
+20184015,SA,March,2018,Friday,17:40,Multiple vehicle,No,Yes,No,60,Bicyclist (includes pillion passengers),Male,14
+20184018,SA,March,2018,Wednesday,16:15,Multiple vehicle,No,No,No,80,Driver,Female,69
+20184019,SA,March,2018,Friday,11:13,Single vehicle,No,No,No,110,Driver,Male,78
+20185002,WA,March,2018,Monday,12:02,Multiple vehicle,No,No,No,60,Pedestrian,Male,93
+20185009,WA,March,2018,Sunday,22:47,Single vehicle,No,No,No,80,Driver,Male,32
+20185012,WA,March,2018,Friday,06:23,Multiple vehicle,No,No,No,60,Pedestrian,Female,3
+20185013,WA,March,2018,Saturday,17:25,Multiple vehicle,No,No,No,50,Pedestrian,Female,62
+20185014,WA,March,2018,Sunday,03:30,Single vehicle,No,No,No,50,Driver,Male,21
+20185015,WA,March,2018,Friday,18:50,Multiple vehicle,Yes,No,No,50,Bicyclist (includes pillion passengers),Male,26
+20185017,WA,March,2018,Wednesday,15:40,Multiple vehicle,No,No,No,110,Passenger,Female,-9
+20185017,WA,March,2018,Wednesday,15:40,Multiple vehicle,No,No,No,110,Driver,Male,56
+20185018,WA,March,2018,Saturday,04:56,Single vehicle,No,No,No,100,Driver,Male,22
+20185019,WA,March,2018,Friday,22:15,Single vehicle,No,No,No,80,Driver,Female,40
+20185025,WA,March,2018,Saturday,21:12,Multiple vehicle,No,No,No,70,Motorcycle rider,Male,36
+20185029,WA,March,2018,Friday,13:05,Single vehicle,No,No,Yes,80,Driver,Male,41
+20185030,WA,March,2018,Saturday,14:00,Multiple vehicle,No,No,No,90,Motorcycle pillion passenger,Male,48
+20185031,WA,March,2018,Wednesday,12:45,Single vehicle,No,No,No,110,Driver,Male,60
+20186003,TAS,March,2018,Saturday,07:57,Multiple vehicle,No,No,No,100,Motorcycle rider,Male,21
+20186007,TAS,March,2018,Thursday,15:05,Single vehicle,No,No,No,40,Motorcycle rider,Male,25
+20186008,TAS,March,2018,Saturday,16:20,Single vehicle,No,No,No,100,Driver,Female,34
+20186011,TAS,March,2018,Monday,12:54,Single vehicle,No,Yes,Yes,-9,Driver,Male,61
+20187002,NT,March,2018,Tuesday,16:00,Multiple vehicle,No,No,No,100,Passenger,Female,81
+20187003,NT,March,2018,Friday,17:45,Multiple vehicle,No,No,No,80,Passenger,Female,40
+20187003,NT,March,2018,Friday,17:45,Multiple vehicle,No,No,No,80,Passenger,Female,53
+20187004,NT,March,2018,Saturday,02:30,Single vehicle,No,No,No,60,Driver,Female,18
+20187006,NT,March,2018,Wednesday,19:03,Multiple vehicle,No,No,No,90,Motorcycle rider,Male,16
+20187008,NT,March,2018,Friday,19:50,Pedestrian,No,No,No,70,Pedestrian,Female,27
+20187011,NT,March,2018,Saturday,12:43,Single vehicle,No,No,No,110,Driver,Female,29
+20187011,NT,March,2018,Saturday,12:43,Single vehicle,No,No,No,110,-9,Female,21
+20187011,NT,March,2018,Saturday,12:43,Single vehicle,No,No,No,110,-9,Female,28
+20181006,NSW,February,2018,Friday,11:20,Multiple vehicle,No,Yes,No,70,Driver,Male,73
+20181006,NSW,February,2018,Friday,11:20,Multiple vehicle,No,Yes,No,70,Passenger,Female,57
+20181006,NSW,February,2018,Friday,11:20,Multiple vehicle,No,Yes,No,70,Passenger,Male,60
+20181009,NSW,February,2018,Wednesday,21:15,Multiple vehicle,No,No,No,60,Driver,Female,80
+20181010,NSW,February,2018,Thursday,11:40,Pedestrian,No,Yes,No,50,Pedestrian,Female,58
+20181014,NSW,February,2018,Sunday,13:20,Single vehicle,No,No,No,100,Driver,Male,63
+20181015,NSW,February,2018,Sunday,23:45,Multiple vehicle,No,No,No,100,Driver,Male,25
+20181018,NSW,February,2018,Saturday,07:42,Multiple vehicle,No,No,No,100,Driver,Male,17
+20181018,NSW,February,2018,Saturday,07:42,Multiple vehicle,No,No,No,100,Driver,Female,29
+20181019,NSW,February,2018,Sunday,16:10,Pedestrian,No,No,No,50,Pedestrian,Female,62
+20181020,NSW,February,2018,Saturday,02:30,Single vehicle,No,No,No,50,Driver,Male,24
+20181021,NSW,February,2018,Tuesday,11:55,Pedestrian,Yes,No,No,80,Pedestrian,Male,22
+20181023,NSW,February,2018,Friday,05:15,Multiple vehicle,No,No,No,80,Driver,Female,32
+20181023,NSW,February,2018,Friday,05:15,Multiple vehicle,No,No,No,80,Driver,Male,52
+20181029,NSW,February,2018,Wednesday,20:00,Single vehicle,No,No,No,50,Motorcycle rider,Male,22
+20181031,NSW,February,2018,Monday,12:30,Single vehicle,No,No,No,100,Driver,Female,26
+20181032,NSW,February,2018,Friday,03:40,Single vehicle,No,No,Yes,110,Driver,Male,57
+20181033,NSW,February,2018,Monday,07:25,Pedestrian,No,No,No,50,Pedestrian,Female,17
+20181034,NSW,February,2018,Sunday,13:50,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,22
+20181035,NSW,February,2018,Monday,18:15,Single vehicle,No,No,No,70,Motorcycle rider,Male,57
+20181037,NSW,February,2018,Sunday,04:20,Single vehicle,No,No,No,100,Driver,Male,19
+20181038,NSW,February,2018,Monday,12:20,Pedestrian,No,No,No,50,Pedestrian,Male,85
+20181039,NSW,February,2018,Monday,18:27,Single vehicle,No,No,No,80,Driver,Male,32
+20181040,NSW,February,2018,Tuesday,15:15,Pedestrian,No,No,No,60,Pedestrian,Male,83
+20181041,NSW,February,2018,Friday,00:01,Single vehicle,No,No,No,100,Driver,Male,18
+20181046,NSW,February,2018,Thursday,12:30,Multiple vehicle,No,No,No,50,Driver,Female,83
+20181054,NSW,February,2018,Saturday,01:50,Multiple vehicle,No,No,Yes,110,Driver,Male,27
+20181060,NSW,February,2018,Saturday,01:00,Single vehicle,No,No,No,100,Driver,Male,34
+20181063,NSW,February,2018,Saturday,16:20,Multiple vehicle,No,No,No,100,Passenger,Male,54
+20181070,NSW,February,2018,Friday,19:55,Pedestrian,No,No,No,50,Pedestrian,Male,18
+20181078,NSW,February,2018,Saturday,16:43,Multiple vehicle,No,No,No,100,Motorcycle rider,Male,46
+20181087,NSW,February,2018,Tuesday,03:50,Multiple vehicle,No,Yes,No,100,Driver,Female,36
+20182001,VIC,February,2018,Sunday,12:50,Multiple vehicle,No,-9,No,-9,Motorcycle rider,Male,30
+20182006,VIC,February,2018,Saturday,14:45,Multiple vehicle,No,-9,No,80,Motorcycle rider,Male,54
+20182007,VIC,February,2018,Wednesday,08:35,Single vehicle,No,-9,No,-9,Passenger,Female,15
+20182020,VIC,February,2018,Thursday,11:07,Multiple vehicle,No,-9,No,80,Driver,Female,27
+20182021,VIC,February,2018,Sunday,18:40,Multiple vehicle,No,-9,No,100,Driver,Female,64
+20182032,VIC,February,2018,Thursday,15:25,Single vehicle,No,-9,No,-9,Motorcycle rider,Male,52
+20182034,VIC,February,2018,Friday,05:50,Multiple vehicle,No,-9,No,-9,Driver,Male,65
+20182038,VIC,February,2018,Saturday,21:05,Multiple vehicle,No,-9,No,-9,Driver,Male,37
+20182039,VIC,February,2018,Saturday,14:00,Single vehicle,No,-9,No,100,Driver,Male,45
+20182047,VIC,February,2018,Monday,12:42,Single vehicle,No,-9,No,60,Bicyclist (includes pillion passengers),Male,57
+20182050,VIC,February,2018,Sunday,23:54,Multiple vehicle,No,-9,No,80,Driver,Male,30
+20182050,VIC,February,2018,Sunday,23:54,Multiple vehicle,No,-9,No,80,Driver,Male,46
+20182051,VIC,February,2018,Thursday,16:00,Pedestrian,No,-9,No,40,Pedestrian,Female,69
+20182052,VIC,February,2018,Thursday,09:25,Single vehicle,No,-9,No,40,Driver,Male,92
+20182053,VIC,February,2018,Monday,21:55,Pedestrian,No,-9,No,-9,Pedestrian,Male,25
+20182056,VIC,February,2018,Monday,11:00,Single vehicle,No,-9,No,-9,Bicyclist (includes pillion passengers),Male,40
+20182057,VIC,February,2018,Monday,14:45,Single vehicle,No,-9,No,-9,Driver,Male,68
+20183005,QLD,February,2018,Monday,13:00,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,62
+20183010,QLD,February,2018,Monday,18:00,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,21
+20183012,QLD,February,2018,Sunday,12:00,Multiple vehicle,No,No,Yes,100,Driver,Male,44
+20183016,QLD,February,2018,Friday,02:00,Single vehicle,No,No,No,100,Driver,Male,35
+20183020,QLD,February,2018,Thursday,20:00,Pedestrian,No,No,No,60,Pedestrian,Female,46
+20183028,QLD,February,2018,Saturday,03:00,Pedestrian,No,No,No,60,Pedestrian,Male,32
+20183030,QLD,February,2018,Wednesday,14:00,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,54
+20183031,QLD,February,2018,Saturday,07:00,Single vehicle,No,No,No,80,Passenger,Male,45
+20183031,QLD,February,2018,Saturday,07:00,Single vehicle,No,No,No,80,Passenger,Female,37
+20183032,QLD,February,2018,Sunday,11:00,Pedestrian,No,No,No,110,Pedestrian,Male,25
+20183034,QLD,February,2018,Saturday,14:00,Multiple vehicle,No,No,No,70,Motorcycle rider,Male,70
+20183035,QLD,February,2018,Tuesday,17:00,Single vehicle,No,No,No,80,Driver,Male,17
+20183040,QLD,February,2018,Tuesday,12:00,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,54
+20183042,QLD,February,2018,Thursday,06:00,Multiple vehicle,No,No,No,80,Driver,Male,28
+20183044,QLD,February,2018,Monday,15:00,Pedestrian,No,No,No,80,Pedestrian,Male,74
+20183045,QLD,February,2018,Tuesday,15:00,Multiple vehicle,No,No,Yes,80,Passenger,Male,58
+20183048,QLD,February,2018,Monday,09:00,Pedestrian,No,Yes,No,60,Pedestrian,Male,58
+20183054,QLD,February,2018,Wednesday,13:00,Single vehicle,No,No,No,80,Motorcycle rider,Male,46
+20184007,SA,February,2018,Wednesday,00:20,Single vehicle,No,No,No,110,Driver,Male,27
+20184013,SA,February,2018,Saturday,10:00,Multiple vehicle,No,No,No,50,Motorcycle rider,Male,48
+20184016,SA,February,2018,Wednesday,08:30,Single vehicle,No,No,No,110,Passenger,Male,1
+20185001,WA,February,2018,Saturday,10:37,Single vehicle,No,No,No,110,Driver,Female,78
+20185003,WA,February,2018,Tuesday,06:46,Single vehicle,No,No,No,70,Driver,Male,22
+20185005,WA,February,2018,Wednesday,15:37,Single vehicle,No,No,No,110,Driver,Female,17
+20185007,WA,February,2018,Tuesday,16:30,Single vehicle,No,No,No,70,Driver,Male,26
+20185008,WA,February,2018,Sunday,12:20,Single vehicle,No,No,No,60,Driver,Female,94
+20185011,WA,February,2018,Friday,21:28,Single vehicle,No,No,No,50,Motorcycle rider,Male,42
+20185021,WA,February,2018,Thursday,17:54,Single vehicle,No,No,No,80,Driver,Male,16
+20185022,WA,February,2018,Saturday,19:40,Single vehicle,No,No,No,70,Motorcycle rider,Male,40
+20185023,WA,February,2018,Thursday,11:45,Single vehicle,No,No,No,90,Motorcycle rider,Male,61
+20185026,WA,February,2018,Sunday,03:35,Multiple vehicle,No,No,No,70,Pedestrian,Male,32
+20185028,WA,February,2018,Friday,00:25,Single vehicle,No,No,No,110,Driver,Male,55
+20186004,TAS,February,2018,Sunday,20:28,Multiple vehicle,No,No,No,50,Motorcycle rider,Male,36
+20186010,TAS,February,2018,Thursday,07:16,Multiple vehicle,No,Yes,No,80,Bicyclist (includes pillion passengers),Male,49
+20187005,NT,February,2018,Saturday,15:20,Single vehicle,No,No,No,50,Motorcycle rider,Male,34
+20187007,NT,February,2018,Thursday,17:30,Single vehicle,No,No,No,110,Driver,Male,29
+20187012,NT,February,2018,Wednesday,20:20,Pedestrian,No,No,No,70,Pedestrian,Female,42
+20188001,ACT,February,2018,Thursday,17:00,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,38
+20188003,ACT,February,2018,Friday,18:30,Pedestrian,No,No,No,50,Pedestrian,Male,10
+20181002,NSW,January,2018,Monday,00:10,Multiple vehicle,No,No,No,60,Passenger,Female,17
+20181003,NSW,January,2018,Friday,10:28,Single vehicle,No,No,No,100,Passenger,Female,81
+20181004,NSW,January,2018,Monday,12:45,Multiple vehicle,No,No,Yes,110,Driver,Male,50
+20181008,NSW,January,2018,Tuesday,09:45,Single vehicle,No,No,No,60,Passenger,Female,66
+20181011,NSW,January,2018,Thursday,15:45,Multiple vehicle,No,No,No,80,Passenger,Female,36
+20181013,NSW,January,2018,Sunday,08:30,Single vehicle,No,No,No,100,Driver,Female,63
+20181017,NSW,January,2018,Monday,03:50,Multiple vehicle,No,No,No,90,Driver,Male,38
+20181024,NSW,January,2018,Thursday,10:00,Multiple vehicle,No,No,No,80,Passenger,Female,71
+20181030,NSW,January,2018,Monday,16:05,Multiple vehicle,No,No,No,80,Driver,Male,64
+20181036,NSW,January,2018,Friday,21:27,Pedestrian,No,No,No,50,Pedestrian,Male,43
+20181042,NSW,January,2018,Thursday,20:45,Pedestrian,No,No,No,60,Pedestrian,Male,79
+20181043,NSW,January,2018,Thursday,03:15,Single vehicle,No,No,No,100,Driver,Male,23
+20181044,NSW,January,2018,Monday,13:10,Pedestrian,No,No,No,40,Pedestrian,Male,57
+20181045,NSW,January,2018,Saturday,21:12,Pedestrian,No,No,No,100,Pedestrian,Male,78
+20181048,NSW,January,2018,Saturday,21:00,Single vehicle,No,No,No,100,Driver,Male,59
+20181049,NSW,January,2018,Saturday,14:15,Single vehicle,No,No,No,100,Driver,Male,39
+20181051,NSW,January,2018,Wednesday,19:13,Multiple vehicle,No,No,Yes,100,Driver,Female,70
+20181056,NSW,January,2018,Monday,10:05,Pedestrian,Yes,No,No,40,Pedestrian,Female,81
+20181057,NSW,January,2018,Monday,08:45,Single vehicle,No,No,No,100,Driver,Male,75
+20181059,NSW,January,2018,Tuesday,12:30,Multiple vehicle,No,No,Yes,110,Driver,Female,19
+20181059,NSW,January,2018,Tuesday,12:30,Multiple vehicle,No,No,Yes,110,Passenger,Male,21
+20181061,NSW,January,2018,Sunday,17:39,Pedestrian,No,No,No,50,Pedestrian,Male,80
+20181064,NSW,January,2018,Thursday,17:00,Single vehicle,No,No,No,70,Passenger,Male,20
+20181066,NSW,January,2018,Tuesday,20:54,Pedestrian,No,No,No,60,Pedestrian,Male,58
+20181068,NSW,January,2018,Wednesday,14:00,Single vehicle,No,No,No,60,Bicyclist (includes pillion passengers),Male,64
+20181072,NSW,January,2018,Saturday,06:24,Multiple vehicle,No,Yes,No,80,Motorcycle rider,Male,27
+20181074,NSW,January,2018,Wednesday,19:01,Multiple vehicle,No,No,No,50,Motorcycle rider,Male,36
+20181076,NSW,January,2018,Monday,02:43,Pedestrian,No,No,No,50,Pedestrian,Male,54
+20181077,NSW,January,2018,Thursday,17:30,Single vehicle,No,No,No,100,Driver,Male,74
+20181079,NSW,January,2018,Sunday,23:30,Pedestrian,No,No,No,50,Pedestrian,Male,23
+20181080,NSW,January,2018,Tuesday,19:20,Multiple vehicle,No,No,No,90,Driver,Female,19
+20181081,NSW,January,2018,Monday,14:15,Multiple vehicle,No,Yes,Yes,100,Driver,Male,48
+20181081,NSW,January,2018,Monday,14:15,Multiple vehicle,No,Yes,Yes,100,Driver,Male,50
+20181083,NSW,January,2018,Saturday,16:32,Single vehicle,No,No,No,100,Driver,Male,52
+20181084,NSW,January,2018,Saturday,11:40,Multiple vehicle,No,No,No,50,Motorcycle rider,Male,31
+20181085,NSW,January,2018,Thursday,16:15,Single vehicle,No,No,No,80,Driver,Female,85
+20181088,NSW,January,2018,Wednesday,15:25,Single vehicle,No,No,No,100,Driver,Male,66
+20181089,NSW,January,2018,Saturday,11:48,Single vehicle,No,No,No,80,Motorcycle rider,Male,18
+20182002,VIC,January,2018,Saturday,06:37,Single vehicle,No,-9,No,100,Passenger,Female,24
+20182003,VIC,January,2018,Saturday,15:45,Single vehicle,No,-9,No,60,Passenger,Male,57
+20182010,VIC,January,2018,Friday,05:30,Single vehicle,No,-9,No,50,Passenger,Male,39
+20182012,VIC,January,2018,Wednesday,18:20,Single vehicle,No,-9,No,80,Driver,Female,21
+20182014,VIC,January,2018,Sunday,09:30,Single vehicle,No,-9,No,60,Motorcycle rider,Male,55
+20182015,VIC,January,2018,Monday,15:00,Multiple vehicle,No,-9,No,100,Driver,Male,0
+20182016,VIC,January,2018,Thursday,07:46,Multiple vehicle,No,-9,No,60,Driver,Male,30
+20182017,VIC,January,2018,Tuesday,14:15,Multiple vehicle,No,-9,No,-9,Driver,Male,80
+20182018,VIC,January,2018,Wednesday,14:37,Multiple vehicle,No,-9,No,100,Driver,Male,62
+20182019,VIC,January,2018,Monday,14:40,Multiple vehicle,No,-9,No,80,Motorcycle rider,Female,39
+20182022,VIC,January,2018,Monday,05:50,Single vehicle,No,-9,No,100,Passenger,Female,58
+20182025,VIC,January,2018,Thursday,05:45,Pedestrian,No,-9,No,60,Pedestrian,Male,58
+20182026,VIC,January,2018,Sunday,13:57,Single vehicle,No,-9,No,60,Driver,Female,73
+20182028,VIC,January,2018,Tuesday,10:35,Multiple vehicle,No,-9,No,100,Driver,Male,18
+20182031,VIC,January,2018,Sunday,20:58,Single vehicle,No,-9,No,-9,Driver,Female,44
+20182033,VIC,January,2018,Saturday,13:45,Single vehicle,No,-9,No,-9,Driver,Male,52
+20182042,VIC,January,2018,Tuesday,22:30,Multiple vehicle,No,-9,No,-9,Driver,Female,39
+20182046,VIC,January,2018,Wednesday,12:23,Multiple vehicle,No,-9,No,-9,Passenger,Male,69
+20182048,VIC,January,2018,Sunday,20:00,Single vehicle,No,-9,No,100,Driver,Male,41
+20182049,VIC,January,2018,Saturday,10:14,Single vehicle,No,-9,No,100,Motorcycle rider,Male,60
+20183002,QLD,January,2018,Sunday,07:00,Multiple vehicle,Yes,No,No,100,Driver,Male,76
+20183004,QLD,January,2018,Friday,21:00,Single vehicle,No,No,No,80,Motorcycle rider,Male,63
+20183006,QLD,January,2018,Saturday,07:00,Pedestrian,No,No,No,60,Pedestrian,Female,62
+20183007,QLD,January,2018,Tuesday,15:00,Multiple vehicle,No,No,No,100,Driver,Female,59
+20183011,QLD,January,2018,Tuesday,16:00,Multiple vehicle,No,No,Yes,100,Driver,Male,27
+20183011,QLD,January,2018,Tuesday,16:00,Multiple vehicle,No,No,Yes,100,Passenger,Male,7
+20183014,QLD,January,2018,Thursday,06:00,Single vehicle,No,Yes,No,100,Driver,Male,61
+20183015,QLD,January,2018,Monday,19:00,Multiple vehicle,No,No,No,100,Driver,Female,65
+20183015,QLD,January,2018,Monday,19:00,Multiple vehicle,No,No,No,100,Driver,Female,58
+20183018,QLD,January,2018,Friday,06:00,Single vehicle,No,No,No,50,Passenger,Female,21
+20183022,QLD,January,2018,Friday,11:00,Single vehicle,No,No,No,100,Motorcycle rider,Male,49
+20183024,QLD,January,2018,Monday,15:00,Single vehicle,No,No,No,50,Motorcycle rider,Male,45
+20183025,QLD,January,2018,Sunday,11:00,Single vehicle,No,No,No,100,Motorcycle rider,Male,66
+20183026,QLD,January,2018,Friday,12:00,Multiple vehicle,No,No,No,60,Passenger,Female,78
+20183033,QLD,January,2018,Monday,14:00,Multiple vehicle,No,No,No,90,Driver,Male,21
+20183036,QLD,January,2018,Monday,01:00,Pedestrian,No,No,No,80,Pedestrian,Female,40
+20183037,QLD,January,2018,Monday,17:00,Single vehicle,No,No,Yes,100,Driver,Male,47
+20184003,SA,January,2018,Monday,14:12,Multiple vehicle,No,No,No,100,Driver,Male,62
+20184008,SA,January,2018,Tuesday,07:00,Multiple vehicle,No,No,No,100,Passenger,Female,25
+20184010,SA,January,2018,Friday,17:40,Single vehicle,No,No,No,50,Driver,Male,19
+20184014,SA,January,2018,Sunday,22:05,Multiple vehicle,No,No,Yes,110,Driver,Male,49
+20184017,SA,January,2018,Saturday,06:40,Pedestrian,No,No,No,50,Pedestrian,Female,81
+20185004,WA,January,2018,Wednesday,12:14,Multiple vehicle,No,No,No,110,Passenger,Female,41
+20185004,WA,January,2018,Wednesday,12:14,Multiple vehicle,No,No,No,110,Driver,Male,72
+20185004,WA,January,2018,Wednesday,12:14,Multiple vehicle,No,No,No,110,Driver,Female,49
+20185006,WA,January,2018,Thursday,17:17,Multiple vehicle,No,No,No,60,Pedestrian,Female,41
+20185010,WA,January,2018,Sunday,16:40,Single vehicle,No,No,No,110,Motorcycle rider,Male,48
+20185016,WA,January,2018,Tuesday,06:25,Multiple vehicle,No,No,No,70,Driver,Male,27
+20185020,WA,January,2018,Friday,06:26,Single vehicle,No,No,No,110,Passenger,Female,20
+20185020,WA,January,2018,Friday,06:26,Single vehicle,No,No,No,110,Driver,Male,24
+20185024,WA,January,2018,Tuesday,16:16,Multiple vehicle,No,No,No,60,Driver,Male,86
+20185027,WA,January,2018,Monday,02:50,Single vehicle,No,No,No,50,Driver,Female,-9
+20185032,WA,January,2018,Thursday,13:41,Multiple vehicle,No,No,Yes,100,Motorcycle rider,Male,56
+20185033,WA,January,2018,Saturday,06:00,Multiple vehicle,No,No,No,110,Driver,Male,39
+20185034,WA,January,2018,Tuesday,05:30,Single vehicle,No,No,No,110,Driver,Male,46
+20186001,TAS,January,2018,Friday,21:50,Multiple vehicle,No,No,No,100,Driver,Female,51
+20186002,TAS,January,2018,Friday,14:56,Multiple vehicle,No,No,No,100,Passenger,Male,62
+20186005,TAS,January,2018,Friday,19:55,Multiple vehicle,No,No,No,100,Motorcycle rider,Male,23
+20186006,TAS,January,2018,Saturday,19:39,Single vehicle,No,No,No,60,Passenger,Male,22
+20186009,TAS,January,2018,Monday,09:55,Single vehicle,No,No,No,60,Motorcycle rider,Male,27
+20186012,TAS,January,2018,Wednesday,04:15,Pedestrian,No,No,No,100,Pedestrian,Male,21
+20187001,NT,January,2018,Thursday,22:40,Pedestrian,No,No,No,60,Pedestrian,Female,18
+20187009,NT,January,2018,Wednesday,21:50,Pedestrian,No,No,No,60,Pedestrian,Male,23
+20187010,NT,January,2018,Saturday,22:01,Single vehicle,No,No,No,110,Passenger,Male,28
+20188002,ACT,January,2018,Tuesday,18:00,Single vehicle,No,No,No,80,Passenger,Male,24
+20171003,NSW,December,2017,Monday,15:45,Single vehicle,No,No,No,100,Driver,Male,59
+20171023,NSW,December,2017,Sunday,11:05,Single vehicle,No,No,No,100,Driver,Male,18
+20171034,NSW,December,2017,Friday,17:00,Multiple vehicle,No,No,No,50,Driver,Male,72
+20171036,NSW,December,2017,Saturday,20:25,Single vehicle,No,No,No,100,Driver,Female,38
+20171049,NSW,December,2017,Sunday,20:55,Multiple vehicle,No,No,No,50,Motorcycle rider,Male,22
+20171079,NSW,December,2017,Thursday,22:07,Single vehicle,No,No,No,50,Motorcycle rider,Male,22
+20171088,NSW,December,2017,Saturday,22:13,Multiple vehicle,No,No,No,90,Driver,Male,35
+20171090,NSW,December,2017,Tuesday,17:10,Single vehicle,No,No,No,80,Passenger,Female,23
+20171095,NSW,December,2017,Monday,10:15,Multiple vehicle,No,No,No,70,Passenger,Female,91
+20171098,NSW,December,2017,Saturday,02:30,Single vehicle,No,No,No,80,Driver,Male,28
+20171099,NSW,December,2017,Friday,18:00,Single vehicle,No,No,No,100,Motorcycle rider,Male,55
+20171108,NSW,December,2017,Saturday,05:45,Single vehicle,No,No,No,50,Driver,Male,53
+20171127,NSW,December,2017,Thursday,11:50,Single vehicle,No,No,No,100,Driver,Male,24
+20171127,NSW,December,2017,Thursday,11:50,Single vehicle,No,No,No,100,Passenger,Female,15
+20171131,NSW,December,2017,Thursday,08:57,Multiple vehicle,No,No,Yes,110,Driver,Female,72
+20171139,NSW,December,2017,Saturday,11:30,Single vehicle,No,No,No,100,Driver,Male,78
+20171156,NSW,December,2017,Tuesday,17:00,Single vehicle,No,No,No,110,Driver,Female,25
+20171168,NSW,December,2017,Tuesday,16:15,Multiple vehicle,No,Yes,No,50,Driver,Male,16
+20171170,NSW,December,2017,Thursday,12:15,Multiple vehicle,No,No,No,100,Driver,Female,73
+20171176,NSW,December,2017,Monday,16:18,Multiple vehicle,No,No,No,100,Driver,Male,78
+20171176,NSW,December,2017,Monday,16:18,Multiple vehicle,No,No,No,100,Passenger,Female,73
+20171186,NSW,December,2017,Saturday,19:19,Single vehicle,No,No,No,60,Driver,Female,62
+20171200,NSW,December,2017,Saturday,02:00,Multiple vehicle,No,No,No,90,Driver,Female,38
+20171205,NSW,December,2017,Thursday,23:00,Pedestrian,No,No,No,60,Pedestrian,Female,21
+20171226,NSW,December,2017,Saturday,22:45,Multiple vehicle,No,No,No,100,Passenger,Male,25
+20171236,NSW,December,2017,Tuesday,22:50,Multiple vehicle,No,Yes,No,60,Driver,Male,43
+20171238,NSW,December,2017,Friday,17:25,Multiple vehicle,No,No,No,100,Driver,Male,48
+20171253,NSW,December,2017,Saturday,14:30,Single vehicle,No,No,No,100,Motorcycle rider,Male,26
+20171275,NSW,December,2017,Sunday,14:27,Single vehicle,No,No,No,100,Passenger,Female,25
+20171316,NSW,December,2017,Tuesday,04:45,Single vehicle,No,No,No,80,Driver,Male,63
+20171321,NSW,December,2017,Sunday,14:45,Single vehicle,No,No,No,80,Motorcycle rider,Male,25
+20171322,NSW,December,2017,Monday,06:00,Single vehicle,No,No,No,100,Driver,Male,46
+20171323,NSW,December,2017,Tuesday,10:40,Multiple vehicle,No,No,No,100,Driver,Male,50
+20171323,NSW,December,2017,Tuesday,10:40,Multiple vehicle,No,No,No,100,Driver,Male,69
+20171323,NSW,December,2017,Tuesday,10:40,Multiple vehicle,No,No,No,100,Passenger,Female,60
+20171323,NSW,December,2017,Tuesday,10:40,Multiple vehicle,No,No,No,100,Passenger,Female,21
+20171323,NSW,December,2017,Tuesday,10:40,Multiple vehicle,No,No,No,100,Passenger,Female,28
+20171331,NSW,December,2017,Friday,19:10,Single vehicle,No,No,No,50,Driver,Male,80
+20171340,NSW,December,2017,Saturday,14:25,Single vehicle,No,No,Yes,100,Driver,Male,34
+20171350,NSW,December,2017,Monday,06:00,Single vehicle,No,No,No,100,Driver,Male,44
+20171355,NSW,December,2017,Friday,11:00,Pedestrian,No,No,No,60,Pedestrian,Female,77
+20172009,VIC,December,2017,Saturday,16:46,Multiple vehicle,No,-9,Yes,100,Driver,Male,59
+20172021,VIC,December,2017,Friday,07:46,Multiple vehicle,-9,-9,No,-9,Driver,Male,61
+20172024,VIC,December,2017,Sunday,19:34,Multiple vehicle,-9,-9,No,-9,Passenger,Male,40
+20172024,VIC,December,2017,Sunday,19:34,Multiple vehicle,-9,-9,No,-9,Passenger,Female,-9
+20172024,VIC,December,2017,Sunday,19:34,Multiple vehicle,-9,-9,No,-9,Driver,Male,35
+20172032,VIC,December,2017,Saturday,13:00,Pedestrian,-9,-9,No,-9,Pedestrian,Male,58
+20172043,VIC,December,2017,Monday,16:10,Multiple vehicle,-9,-9,No,-9,Driver,Male,46
+20172103,VIC,December,2017,Monday,05:40,Single vehicle,-9,-9,No,-9,Driver,Male,22
+20172119,VIC,December,2017,Thursday,00:25,Multiple vehicle,-9,-9,No,-9,Driver,Male,41
+20172122,VIC,December,2017,Saturday,13:00,Single vehicle,No,-9,No,100,Driver,Male,23
+20172126,VIC,December,2017,Wednesday,17:25,Multiple vehicle,No,-9,No,70,Driver,Female,27
+20172129,VIC,December,2017,Friday,07:55,Multiple vehicle,No,-9,No,100,Driver,Female,22
+20172144,VIC,December,2017,Wednesday,17:30,Single vehicle,-9,-9,No,-9,Motorcycle rider,Male,47
+20172148,VIC,December,2017,Friday,10:15,Multiple vehicle,No,-9,No,100,Bicyclist (includes pillion passengers),Male,23
+20172149,VIC,December,2017,Wednesday,11:00,Multiple vehicle,-9,-9,No,-9,Motorcycle rider,Male,66
+20172149,VIC,December,2017,Wednesday,11:00,Multiple vehicle,-9,-9,No,-9,Motorcycle rider,Male,48
+20172151,VIC,December,2017,Sunday,18:47,Single vehicle,No,-9,No,100,Driver,Male,40
+20172158,VIC,December,2017,Thursday,17:10,Single vehicle,No,-9,No,100,Driver,Female,19
+20172174,VIC,December,2017,Sunday,20:20,Single vehicle,No,-9,No,60,Motorcycle pillion passenger,Male,48
+20172179,VIC,December,2017,Tuesday,10:50,Multiple vehicle,-9,-9,No,-9,Driver,Male,52
+20172180,VIC,December,2017,Thursday,11:00,Multiple vehicle,-9,-9,No,-9,Driver,Male,55
+20172181,VIC,December,2017,Sunday,09:27,Single vehicle,-9,-9,No,-9,Bicyclist (includes pillion passengers),Male,57
+20172198,VIC,December,2017,Friday,15:15,Pedestrian,Yes,-9,No,60,Pedestrian,Male,85
+20172208,VIC,December,2017,Tuesday,11:15,Pedestrian,-9,Yes,No,-9,Pedestrian,Female,44
+20172214,VIC,December,2017,Thursday,13:35,Pedestrian,-9,-9,No,-9,Pedestrian,Male,77
+20172218,VIC,December,2017,Friday,11:35,Multiple vehicle,-9,-9,No,-9,Motorcycle rider,Male,43
+20172225,VIC,December,2017,Monday,12:30,Single vehicle,No,-9,Yes,100,Driver,Male,66
+20172228,VIC,December,2017,Thursday,12:19,Multiple vehicle,-9,-9,No,-9,Driver,Male,71
+20173002,QLD,December,2017,Tuesday,13:00,Single vehicle,No,No,No,70,Driver,Female,-9
+20173006,QLD,December,2017,Saturday,13:00,Single vehicle,No,No,No,110,Driver,Female,-9
+20173025,QLD,December,2017,Thursday,10:00,Single vehicle,No,No,No,100,Motorcycle rider,Male,-9
+20173028,QLD,December,2017,Thursday,16:00,Multiple vehicle,No,No,No,100,Motorcycle rider,Male,-9
+20173056,QLD,December,2017,Saturday,13:00,Single vehicle,No,No,No,100,Driver,Male,-9
+20173057,QLD,December,2017,Sunday,13:00,Single vehicle,No,No,Yes,100,Driver,Male,-9
+20173063,QLD,December,2017,Sunday,03:00,Single vehicle,No,No,No,50,Driver,Male,-9
+20173073,QLD,December,2017,Tuesday,16:00,Multiple vehicle,No,Yes,No,100,Motorcycle rider,Male,-9
+20173075,QLD,December,2017,Wednesday,06:00,Single vehicle,No,No,No,70,Driver,Male,-9
+20173079,QLD,December,2017,Friday,10:00,Multiple vehicle,No,No,No,80,Driver,Male,-9
+20173102,QLD,December,2017,Wednesday,06:00,Single vehicle,No,No,No,50,Passenger,Female,-9
+20173103,QLD,December,2017,Sunday,15:00,Single vehicle,No,No,No,80,Driver,Male,-9
+20173116,QLD,December,2017,Monday,11:00,Multiple vehicle,No,No,No,70,Passenger,Female,-9
+20173116,QLD,December,2017,Monday,11:00,Multiple vehicle,No,No,No,70,Passenger,Female,-9
+20173119,QLD,December,2017,Thursday,20:00,Multiple vehicle,No,No,No,70,Driver,Male,-9
+20173132,QLD,December,2017,Tuesday,04:00,Single vehicle,No,No,No,100,Driver,Male,-9
+20173184,QLD,December,2017,Thursday,23:00,Single vehicle,No,No,No,50,Motorcycle rider,Male,-9
+20173185,QLD,December,2017,Friday,23:00,Pedestrian,No,No,No,90,Pedestrian,Male,-9
+20173186,QLD,December,2017,Thursday,15:00,Multiple vehicle,No,No,No,80,Driver,Female,-9
+20173187,QLD,December,2017,Tuesday,16:00,Single vehicle,No,No,No,100,Driver,Male,-9
+20173188,QLD,December,2017,Saturday,21:00,Single vehicle,No,No,No,70,Driver,Male,-9
+20173212,QLD,December,2017,Saturday,11:00,Multiple vehicle,No,No,No,80,Passenger,Female,-9
+20173212,QLD,December,2017,Saturday,11:00,Multiple vehicle,No,No,No,80,Driver,Female,-9
+20173219,QLD,December,2017,Sunday,17:00,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,-9
+20174001,SA,December,2017,Saturday,21:00,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,41
+20174007,SA,December,2017,Monday,06:45,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,21
+20174012,SA,December,2017,Friday,05:30,Single vehicle,No,No,No,110,Driver,Male,38
+20174035,SA,December,2017,Thursday,20:40,Single vehicle,No,No,No,50,Driver,Male,19
+20174056,SA,December,2017,Thursday,17:40,Single vehicle,No,No,No,80,Passenger,Female,66
+20174063,SA,December,2017,Monday,21:42,Pedestrian,No,No,No,60,Pedestrian,Male,45
+20174078,SA,December,2017,Wednesday,12:25,Multiple vehicle,No,No,No,110,Passenger,Female,30
+20174086,SA,December,2017,Saturday,18:20,Pedestrian,No,No,No,50,Pedestrian,Female,83
+20174089,SA,December,2017,Thursday,20:40,Single vehicle,No,No,No,50,Motorcycle rider,Male,17
+20175001,WA,December,2017,Monday,05:06,Single vehicle,No,No,No,110,Passenger,Male,67
+20175011,WA,December,2017,Wednesday,17:08,Single vehicle,No,No,No,110,Passenger,Female,45
+20175014,WA,December,2017,Monday,08:20,Multiple vehicle,No,No,No,70,Driver,Female,56
+20175019,WA,December,2017,Thursday,21:15,Multiple vehicle,No,No,Yes,100,Driver,Male,35
+20175024,WA,December,2017,Thursday,13:39,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,65
+20175040,WA,December,2017,Tuesday,20:12,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,28
+20175045,WA,December,2017,Thursday,14:00,Single vehicle,No,No,No,80,Motorcycle rider,Male,51
+20175058,WA,December,2017,Friday,20:00,Single vehicle,No,No,No,50,Motorcycle rider,Male,33
+20175063,WA,December,2017,Wednesday,15:20,Multiple vehicle,No,No,No,110,Driver,Male,86
+20175065,WA,December,2017,Tuesday,15:25,Multiple vehicle,No,No,No,100,Driver,Female,81
+20175071,WA,December,2017,Wednesday,03:40,Single vehicle,No,No,No,110,Driver,Male,42
+20175077,WA,December,2017,Monday,19:50,Multiple vehicle,No,No,No,50,Passenger,Male,47
+20175085,WA,December,2017,Tuesday,16:20,Multiple vehicle,No,No,No,50,Pedestrian,Male,93
+20175091,WA,December,2017,Friday,05:39,Multiple vehicle,No,No,No,60,Driver,Male,54
+20175105,WA,December,2017,Friday,11:50,Multiple vehicle,No,No,No,50,Pedestrian,Female,93
+20175114,WA,December,2017,Saturday,10:20,Multiple vehicle,No,No,Yes,90,Driver,Male,47
+20175121,WA,December,2017,Saturday,11:27,Single vehicle,No,No,No,110,Motorcycle rider,Male,57
+20175124,WA,December,2017,Wednesday,15:30,Single vehicle,No,No,No,110,Driver,Male,37
+20175125,WA,December,2017,Sunday,18:00,Single vehicle,No,No,No,-9,Passenger,Male,47
+20175129,WA,December,2017,Sunday,17:09,Single vehicle,No,No,No,70,Driver,Male,50
+20175148,WA,December,2017,Tuesday,16:27,Single vehicle,No,No,No,50,9,Male,94
+20176007,TAS,December,2017,Thursday,10:10,Single vehicle,No,Yes,No,70,Driver,Male,55
+20176016,TAS,December,2017,Sunday,14:45,Multiple vehicle,No,No,No,60,Driver,Male,49
+20176023,TAS,December,2017,Saturday,22:00,Single vehicle,No,No,No,80,Motorcycle rider,Male,36
+20177003,NT,December,2017,Thursday,17:55,Pedestrian,No,No,No,60,Pedestrian,Male,29
+20177007,NT,December,2017,Friday,19:30,Single vehicle,No,No,No,110,Passenger,Female,60
+20177007,NT,December,2017,Friday,19:30,Single vehicle,No,No,No,110,Passenger,Male,29
+20177020,NT,December,2017,Saturday,09:30,Single vehicle,No,No,No,60,Passenger,Female,59
+20171001,NSW,November,2017,Friday,12:45,Pedestrian,No,No,No,60,Pedestrian,Male,91
+20171018,NSW,November,2017,Wednesday,08:10,Multiple vehicle,No,Yes,No,100,Driver,Male,20
+20171025,NSW,November,2017,Saturday,11:10,Pedestrian,No,No,No,40,Pedestrian,Female,62
+20171032,NSW,November,2017,Saturday,15:55,Single vehicle,No,No,No,50,Driver,Female,85
+20171035,NSW,November,2017,Monday,17:47,Multiple vehicle,No,Yes,No,100,Passenger,Female,34
+20171035,NSW,November,2017,Monday,17:47,Multiple vehicle,No,Yes,No,100,Passenger,Male,44
+20171040,NSW,November,2017,Saturday,23:00,Single vehicle,No,No,No,80,Driver,Male,30
+20171041,NSW,November,2017,Tuesday,05:05,Single vehicle,No,No,No,100,Driver,Male,71
+20171046,NSW,November,2017,Wednesday,13:30,Pedestrian,No,No,Yes,110,Pedestrian,Male,54
+20171055,NSW,November,2017,Saturday,15:00,Multiple vehicle,No,No,No,50,Motorcycle rider,Male,21
+20171061,NSW,November,2017,Monday,18:30,Multiple vehicle,No,No,No,60,Bicyclist (includes pillion passengers),Male,24
+20171074,NSW,November,2017,Wednesday,07:10,Multiple vehicle,No,No,No,80,Passenger,Male,74
+20171089,NSW,November,2017,Tuesday,22:14,Single vehicle,No,No,No,50,Motorcycle rider,Male,49
+20171093,NSW,November,2017,Sunday,05:55,Single vehicle,No,No,No,110,Passenger,Male,29
+20171105,NSW,November,2017,Friday,08:22,Multiple vehicle,No,No,No,100,Driver,Male,63
+20171117,NSW,November,2017,Thursday,14:45,Multiple vehicle,No,No,No,100,Driver,Male,89
+20171124,NSW,November,2017,Saturday,15:00,Pedestrian,No,No,No,60,Pedestrian,Male,68
+20171128,NSW,November,2017,Tuesday,16:38,Single vehicle,No,No,No,100,Driver,Male,60
+20171137,NSW,November,2017,Monday,22:51,Single vehicle,No,No,No,80,Driver,Male,27
+20171142,NSW,November,2017,Saturday,11:30,Multiple vehicle,No,No,No,80,Driver,Male,28
+20171150,NSW,November,2017,Wednesday,15:50,Multiple vehicle,No,No,No,100,Bicyclist (includes pillion passengers),Male,61
+20171152,NSW,November,2017,Thursday,21:30,Single vehicle,No,No,No,100,Driver,Male,80
+20171153,NSW,November,2017,Sunday,17:34,Pedestrian,No,No,No,110,Pedestrian,Male,8
+20171153,NSW,November,2017,Sunday,17:34,Pedestrian,No,No,No,110,Pedestrian,Female,27
+20171172,NSW,November,2017,Friday,02:50,Multiple vehicle,No,No,No,50,Motorcycle rider,Male,18
+20171173,NSW,November,2017,Sunday,00:10,Multiple vehicle,No,No,No,70,Motorcycle rider,Male,42
+20171214,NSW,November,2017,Wednesday,06:09,Single vehicle,No,No,No,100,Driver,Male,22
+20171217,NSW,November,2017,Sunday,12:31,Multiple vehicle,No,No,No,80,Motorcycle rider,Male,56
+20171241,NSW,November,2017,Sunday,21:15,Single vehicle,No,No,No,80,Bicyclist (includes pillion passengers),Male,67
+20171251,NSW,November,2017,Tuesday,13:37,Multiple vehicle,No,No,No,80,Passenger,Female,2
+20171251,NSW,November,2017,Tuesday,13:37,Multiple vehicle,No,No,No,80,Passenger,Male,59
+20171257,NSW,November,2017,Sunday,09:45,Single vehicle,No,No,No,80,Motorcycle rider,Male,64
+20171264,NSW,November,2017,Sunday,17:50,Single vehicle,No,No,No,110,Driver,Male,45
+20171264,NSW,November,2017,Sunday,17:50,Single vehicle,No,No,No,110,Passenger,Male,48
+20171286,NSW,November,2017,Wednesday,14:50,Multiple vehicle,No,No,No,80,Driver,Male,82
+20171293,NSW,November,2017,Sunday,18:40,Multiple vehicle,No,No,No,100,Driver,Male,20
+20171297,NSW,November,2017,Friday,04:06,Single vehicle,No,No,No,100,Passenger,Male,35
+20171337,NSW,November,2017,Wednesday,12:00,Single vehicle,No,No,No,100,Driver,Male,60
+20172001,VIC,November,2017,Thursday,12:07,Single vehicle,-9,-9,Yes,-9,Driver,Male,37
+20172022,VIC,November,2017,Wednesday,21:00,Pedestrian,No,-9,No,70,Pedestrian,Male,47
+20172039,VIC,November,2017,Monday,17:00,Single vehicle,No,-9,No,40,Driver,-9,82
+20172045,VIC,November,2017,Sunday,01:00,Pedestrian,-9,-9,No,-9,Pedestrian,Male,43
+20172055,VIC,November,2017,Monday,12:17,Multiple vehicle,-9,-9,No,-9,Driver,Male,75
+20172061,VIC,November,2017,Wednesday,09:30,Multiple vehicle,-9,Yes,No,-9,Driver,Male,84
+20172063,VIC,November,2017,Saturday,22:20,Single vehicle,-9,-9,No,-9,Driver,Male,66
+20172064,VIC,November,2017,Monday,13:15,Single vehicle,No,-9,No,100,Passenger,Female,64
+20172084,VIC,November,2017,Thursday,02:22,Single vehicle,-9,-9,No,-9,Driver,Male,38
+20172089,VIC,November,2017,Saturday,02:00,Single vehicle,-9,-9,No,-9,Passenger,Male,17
+20172089,VIC,November,2017,Saturday,02:00,Single vehicle,-9,-9,No,-9,Passenger,Male,36
+20172089,VIC,November,2017,Saturday,02:00,Single vehicle,-9,-9,No,-9,Driver,Female,18
+20172094,VIC,November,2017,Thursday,12:43,Pedestrian,-9,-9,No,-9,Pedestrian,Male,84
+20172102,VIC,November,2017,Sunday,13:40,Multiple vehicle,-9,-9,No,-9,Passenger,Female,70
+20172102,VIC,November,2017,Sunday,13:40,Multiple vehicle,-9,-9,No,-9,Driver,Male,72
+20172108,VIC,November,2017,Friday,02:19,Multiple vehicle,No,-9,No,100,Driver,Male,35
+20172128,VIC,November,2017,Sunday,14:30,Multiple vehicle,No,-9,No,80,Passenger,Female,79
+20172131,VIC,November,2017,Saturday,14:31,Single vehicle,No,-9,No,888,Passenger,Female,16
+20172134,VIC,November,2017,Saturday,09:30,Multiple vehicle,No,Yes,No,100,Passenger,Female,67
+20172134,VIC,November,2017,Saturday,09:30,Multiple vehicle,No,Yes,No,100,Driver,Male,31
+20172139,VIC,November,2017,Wednesday,16:15,Multiple vehicle,-9,-9,No,-9,Motorcycle rider,Male,33
+20172141,VIC,November,2017,Sunday,09:15,Single vehicle,-9,-9,No,-9,Motorcycle rider,Male,60
+20172145,VIC,November,2017,Friday,01:00,Single vehicle,-9,-9,No,-9,Driver,Male,18
+20172155,VIC,November,2017,Monday,08:04,Multiple vehicle,-9,-9,No,-9,Bicyclist (includes pillion passengers),Male,35
+20172156,VIC,November,2017,Sunday,02:15,Single vehicle,-9,-9,No,-9,Passenger,Male,19
+20172192,VIC,November,2017,Friday,16:45,Multiple vehicle,No,-9,No,100,Driver,Female,46
+20172200,VIC,November,2017,Friday,15:00,Multiple vehicle,-9,Yes,No,-9,Driver,Male,50
+20172204,VIC,November,2017,Saturday,01:51,Multiple vehicle,-9,-9,No,-9,Driver,Male,49
+20172209,VIC,November,2017,Wednesday,19:39,Multiple vehicle,-9,Yes,No,-9,Driver,-9,-9
+20172212,VIC,November,2017,Wednesday,14:50,Multiple vehicle,-9,-9,Yes,-9,Driver,Female,35
+20172213,VIC,November,2017,Saturday,14:20,Multiple vehicle,-9,-9,No,-9,Passenger,Male,36
+20172222,VIC,November,2017,Sunday,17:55,Multiple vehicle,-9,-9,No,-9,Motorcycle rider,Male,32
+20173043,QLD,November,2017,Monday,10:00,Multiple vehicle,No,No,Yes,100,Driver,Female,-9
+20173054,QLD,November,2017,Wednesday,07:00,Multiple vehicle,No,No,No,50,Bicyclist (includes pillion passengers),Male,-9
+20173066,QLD,November,2017,Monday,02:00,Multiple vehicle,No,No,Yes,60,Driver,Male,-9
+20173080,QLD,November,2017,Wednesday,06:00,Multiple vehicle,No,No,No,50,Bicyclist (includes pillion passengers),Female,-9
+20173100,QLD,November,2017,Friday,22:00,Single vehicle,No,No,No,100,Passenger,Male,-9
+20173107,QLD,November,2017,Sunday,05:00,Multiple vehicle,No,No,No,100,Driver,Male,-9
+20173131,QLD,November,2017,Tuesday,11:00,Multiple vehicle,No,No,No,60,Passenger,Female,-9
+20173143,QLD,November,2017,Friday,19:00,Multiple vehicle,No,No,No,80,Motorcycle rider,Male,-9
+20173160,QLD,November,2017,Sunday,02:00,Pedestrian,No,No,No,60,Pedestrian,Male,-9
+20173161,QLD,November,2017,Monday,19:00,Pedestrian,No,No,No,50,Pedestrian,Male,-9
+20173173,QLD,November,2017,Sunday,00:00,Single vehicle,No,No,No,50,Driver,Male,-9
+20173179,QLD,November,2017,Wednesday,20:00,Pedestrian,No,No,No,60,Pedestrian,Male,-9
+20173204,QLD,November,2017,Monday,23:00,Pedestrian,No,No,No,60,Pedestrian,Male,-9
+20173214,QLD,November,2017,Friday,21:00,Single vehicle,No,No,No,100,Driver,Male,-9
+20174015,SA,November,2017,Wednesday,01:00,Single vehicle,No,No,No,110,Driver,Male,55
+20174025,SA,November,2017,Wednesday,18:20,Pedestrian,No,No,No,60,Pedestrian,Male,80
+20174032,SA,November,2017,Wednesday,23:20,Multiple vehicle,No,No,Yes,110,Driver,Male,41
+20174041,SA,November,2017,Monday,06:33,Single vehicle,No,No,No,100,Passenger,Male,7
+20174059,SA,November,2017,Monday,16:40,Multiple vehicle,No,No,No,100,Driver,Male,72
+20174059,SA,November,2017,Monday,16:40,Multiple vehicle,No,No,No,100,Passenger,Male,82
+20174059,SA,November,2017,Monday,16:40,Multiple vehicle,No,No,No,100,Driver,Male,59
+20174066,SA,November,2017,Wednesday,22:50,Pedestrian,No,No,No,60,Pedestrian,Male,60
+20174070,SA,November,2017,Saturday,11:35,Multiple vehicle,No,No,No,80,Motorcycle rider,Male,24
+20174076,SA,November,2017,Sunday,16:30,Single vehicle,No,No,No,100,Motorcycle rider,Male,33
+20174091,SA,November,2017,Tuesday,12:08,Pedestrian,No,Yes,No,60,Pedestrian,Male,69
+20175003,WA,November,2017,Monday,13:09,Multiple vehicle,No,No,Yes,110,Driver,Male,75
+20175018,WA,November,2017,Saturday,01:37,Single vehicle,No,No,No,110,Passenger,Female,25
+20175023,WA,November,2017,Saturday,06:10,Single vehicle,No,No,No,110,Driver,Male,43
+20175048,WA,November,2017,Saturday,22:18,Multiple vehicle,No,No,No,50,Pedestrian,Male,36
+20175057,WA,November,2017,Saturday,23:49,Multiple vehicle,No,No,No,50,Pedestrian,Male,47
+20175083,WA,November,2017,Friday,04:04,Multiple vehicle,No,Yes,Yes,90,Driver,Male,34
+20175086,WA,November,2017,Saturday,05:31,Multiple vehicle,No,No,No,80,Motorcycle rider,Male,22
+20175117,WA,November,2017,Thursday,00:20,Multiple vehicle,No,No,No,60,Pedestrian,Male,42
+20175122,WA,November,2017,Sunday,08:19,Single vehicle,No,No,No,80,Driver,Female,44
+20175122,WA,November,2017,Sunday,08:19,Single vehicle,No,No,No,80,Passenger,Male,39
+20175134,WA,November,2017,Wednesday,07:30,Single vehicle,No,No,No,110,Driver,Male,22
+20175139,WA,November,2017,Tuesday,03:15,Single vehicle,No,No,No,90,Driver,Male,47
+20176010,TAS,November,2017,Monday,22:05,Single vehicle,No,No,No,100,Driver,Male,24
+20176015,TAS,November,2017,Tuesday,14:35,Single vehicle,No,No,No,60,Driver,Female,80
+20176022,TAS,November,2017,Wednesday,20:58,Multiple vehicle,No,No,No,50,Motorcycle rider,Male,41
+20176029,TAS,November,2017,Wednesday,18:02,Multiple vehicle,No,Yes,No,100,Driver,Male,43
+20176035,TAS,November,2017,Thursday,13:20,Single vehicle,No,No,No,80,Driver,Male,60
+20177010,NT,November,2017,Sunday,14:00,Single vehicle,No,No,No,80,Motorcycle rider,Male,59
+20178001,ACT,November,2017,Wednesday,21:37,Single vehicle,No,No,No,100,Driver,Male,19
+20171007,NSW,October,2017,Sunday,17:05,Multiple vehicle,No,No,No,80,Passenger,Female,62
+20171010,NSW,October,2017,Thursday,04:15,Single vehicle,No,No,No,110,Passenger,Female,56
+20171022,NSW,October,2017,Saturday,02:16,Pedestrian,No,No,No,60,Pedestrian,Male,20
+20171024,NSW,October,2017,Saturday,23:15,Single vehicle,No,No,No,100,Driver,Male,23
+20171028,NSW,October,2017,Saturday,03:20,Single vehicle,No,No,No,70,Driver,Male,26
+20171057,NSW,October,2017,Sunday,14:15,Multiple vehicle,No,No,No,80,Motorcycle rider,Male,48
+20171094,NSW,October,2017,Wednesday,14:40,Single vehicle,No,No,No,80,Motorcycle rider,Male,70
+20171109,NSW,October,2017,Thursday,02:10,Single vehicle,No,No,No,80,Passenger,Male,21
+20171123,NSW,October,2017,Saturday,02:26,Single vehicle,No,No,No,100,Passenger,Male,17
+20171126,NSW,October,2017,Saturday,05:30,Multiple vehicle,No,No,No,110,Driver,Male,68
+20171143,NSW,October,2017,Saturday,22:30,Single vehicle,No,No,No,60,Passenger,Male,37
+20171151,NSW,October,2017,Friday,20:20,Single vehicle,No,No,No,100,Motorcycle rider,Male,57
+20171162,NSW,October,2017,Saturday,04:00,Multiple vehicle,No,No,Yes,100,Driver,Male,73
+20171165,NSW,October,2017,Saturday,03:59,Multiple vehicle,No,No,Yes,110,Passenger,Male,23
+20171177,NSW,October,2017,Wednesday,11:40,Pedestrian,No,No,No,60,Pedestrian,Female,83
+20171189,NSW,October,2017,Tuesday,15:10,Multiple vehicle,No,Yes,No,100,Driver,Male,29
+20171191,NSW,October,2017,Sunday,06:10,Single vehicle,No,No,No,100,Passenger,Male,37
+20171199,NSW,October,2017,Monday,00:50,Single vehicle,No,No,No,100,Driver,Male,46
+20171213,NSW,October,2017,Wednesday,16:25,Multiple vehicle,No,No,No,100,Driver,Female,20
+20171213,NSW,October,2017,Wednesday,16:25,Multiple vehicle,No,No,No,100,Passenger,Male,63
+20171218,NSW,October,2017,Monday,12:10,Multiple vehicle,No,No,No,100,Driver,Female,34
+20171221,NSW,October,2017,Saturday,04:30,Multiple vehicle,No,No,No,80,Driver,Male,23
+20171239,NSW,October,2017,Sunday,10:10,Pedestrian,No,No,Yes,50,Pedestrian,Male,48
+20171244,NSW,October,2017,Thursday,14:45,Multiple vehicle,No,No,No,100,Driver,Female,69
+20171255,NSW,October,2017,Thursday,10:55,Multiple vehicle,No,No,No,50,Motorcycle rider,Male,59
+20171294,NSW,October,2017,Thursday,13:10,Multiple vehicle,No,Yes,No,60,Motorcycle rider,Male,18
+20171307,NSW,October,2017,Sunday,19:45,Single vehicle,No,No,Yes,100,Driver,Male,61
+20171324,NSW,October,2017,Monday,10:00,Multiple vehicle,No,No,No,50,Driver,Male,53
+20171343,NSW,October,2017,Wednesday,21:00,Single vehicle,No,No,No,50,Driver,Male,36
+20172066,VIC,October,2017,Monday,23:00,Multiple vehicle,No,-9,No,60,Driver,Female,53
+20172067,VIC,October,2017,Tuesday,21:02,Multiple vehicle,No,-9,No,40,Motorcycle rider,Male,32
+20172073,VIC,October,2017,Monday,17:08,Multiple vehicle,No,-9,Yes,80,Driver,Female,49
+20172078,VIC,October,2017,Saturday,15:09,Single vehicle,Yes,-9,No,100,Passenger,Female,71
+20172080,VIC,October,2017,Wednesday,16:48,Pedestrian,-9,-9,No,-9,Pedestrian,Male,76
+20172083,VIC,October,2017,Saturday,08:56,Pedestrian,No,-9,No,60,Pedestrian,Male,97
+20172091,VIC,October,2017,Sunday,01:05,Single vehicle,No,-9,No,60,Passenger,Male,23
+20172120,VIC,October,2017,Friday,03:39,Single vehicle,No,-9,No,-9,Driver,Male,18
+20172125,VIC,October,2017,Sunday,13:14,Single vehicle,No,-9,No,110,Passenger,Female,46
+20172220,VIC,October,2017,Tuesday,15:50,Multiple vehicle,No,-9,No,60,Motorcycle rider,Male,44
+20172224,VIC,October,2017,Wednesday,20:30,Multiple vehicle,No,-9,No,100,Bicyclist (includes pillion passengers),Male,18
+20173001,QLD,October,2017,Wednesday,19:00,Multiple vehicle,No,No,No,60,Driver,Female,-9
+20173013,QLD,October,2017,Monday,19:00,Single vehicle,No,No,No,80,Driver,Male,67
+20173047,QLD,October,2017,Sunday,12:00,Single vehicle,No,No,No,110,Passenger,Male,62
+20173083,QLD,October,2017,Saturday,20:00,Pedestrian,No,No,No,100,Pedestrian,Male,-9
+20173087,QLD,October,2017,Wednesday,05:00,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,-9
+20173104,QLD,October,2017,Thursday,08:00,Multiple vehicle,No,No,No,90,Driver,Male,55
+20173111,QLD,October,2017,Friday,13:00,Single vehicle,No,No,No,60,Motorcycle rider,Male,34
+20173113,QLD,October,2017,Monday,11:00,Multiple vehicle,No,No,No,50,Motorcycle rider,Female,-9
+20173114,QLD,October,2017,Monday,18:00,Multiple vehicle,No,No,No,110,Driver,Female,40
+20173145,QLD,October,2017,Sunday,18:00,Multiple vehicle,No,No,No,60,Bicyclist (includes pillion passengers),Male,68
+20173150,QLD,October,2017,Monday,11:00,Multiple vehicle,No,No,No,100,Driver,Male,39
+20173155,QLD,October,2017,Wednesday,14:00,Single vehicle,No,No,No,80,Driver,Female,-9
+20173162,QLD,October,2017,Sunday,18:00,Single vehicle,No,No,No,100,Driver,Male,-9
+20173163,QLD,October,2017,Sunday,10:00,Pedestrian,No,No,No,40,Pedestrian,Male,-9
+20173166,QLD,October,2017,Wednesday,19:00,Pedestrian,No,No,No,40,Pedestrian,Male,70
+20173167,QLD,October,2017,Tuesday,20:00,Multiple vehicle,No,No,No,60,Bicyclist (includes pillion passengers),Female,19
+20173170,QLD,October,2017,Thursday,00:00,Single vehicle,No,No,No,80,Driver,Male,-9
+20173208,QLD,October,2017,Friday,15:00,Single vehicle,No,No,No,100,Driver,Female,33
+20173216,QLD,October,2017,Sunday,09:00,Single vehicle,No,No,No,100,Passenger,Male,13
+20173218,QLD,October,2017,Sunday,19:00,Single vehicle,No,No,No,80,Passenger,Female,-9
+20173226,QLD,October,2017,Sunday,11:00,Multiple vehicle,No,No,No,100,Motorcycle rider,Male,78
+20173226,QLD,October,2017,Sunday,11:00,Multiple vehicle,No,No,No,100,Motorcycle rider,Male,58
+20174003,SA,October,2017,Thursday,11:53,Pedestrian,No,No,No,60,Pedestrian,Male,93
+20174009,SA,October,2017,Tuesday,12:04,Single vehicle,No,No,No,110,Motorcycle rider,Male,70
+20174010,SA,October,2017,Sunday,07:40,Multiple vehicle,No,No,No,60,Bicyclist (includes pillion passengers),Male,62
+20174020,SA,October,2017,Monday,18:40,Single vehicle,No,No,No,110,Driver,Male,25
+20174023,SA,October,2017,Sunday,19:17,Multiple vehicle,No,No,No,90,Motorcycle rider,Male,29
+20174023,SA,October,2017,Sunday,19:17,Multiple vehicle,No,No,No,90,Passenger,Male,24
+20174047,SA,October,2017,Sunday,21:20,Pedestrian,No,No,No,60,Pedestrian,Male,47
+20174055,SA,October,2017,Thursday,08:25,Multiple vehicle,No,Yes,No,60,Driver,Male,60
+20174058,SA,October,2017,Friday,04:51,Single vehicle,No,No,No,60,Driver,Female,17
+20175004,WA,October,2017,Saturday,13:22,Single vehicle,No,No,No,110,Driver,Male,61
+20175007,WA,October,2017,Tuesday,17:00,Single vehicle,No,No,No,100,Driver,Male,72
+20175012,WA,October,2017,Tuesday,08:00,Single vehicle,No,No,No,110,Passenger,Male,26
+20175013,WA,October,2017,Thursday,23:47,Multiple vehicle,No,No,Yes,110,Passenger,Male,37
+20175028,WA,October,2017,Monday,11:55,Single vehicle,No,No,No,110,Driver,Male,67
+20175030,WA,October,2017,Monday,08:48,Multiple vehicle,No,Yes,No,50,Driver,Female,77
+20175036,WA,October,2017,Thursday,12:30,Pedestrian,Yes,No,No,20,Pedestrian,Male,89
+20175039,WA,October,2017,Wednesday,19:44,Single vehicle,No,No,No,60,Driver,Female,43
+20175046,WA,October,2017,Friday,22:12,Multiple vehicle,No,No,No,70,Driver,Male,38
+20175067,WA,October,2017,Saturday,00:35,Single vehicle,No,No,No,50,Driver,Male,46
+20175070,WA,October,2017,Tuesday,16:42,Multiple vehicle,No,No,Yes,110,Driver,Male,42
+20175102,WA,October,2017,Thursday,11:36,Multiple vehicle,No,No,No,50,Driver,Male,69
+20175107,WA,October,2017,Friday,07:20,Single vehicle,No,No,No,110,Driver,Male,34
+20175111,WA,October,2017,Friday,19:45,Single vehicle,No,No,No,50,Passenger,Male,16
+20175111,WA,October,2017,Friday,19:45,Single vehicle,No,No,No,50,Passenger,Male,17
+20175127,WA,October,2017,Monday,12:52,Multiple vehicle,No,No,No,50,Motorcycle rider,Male,19
+20175130,WA,October,2017,Sunday,10:10,Multiple vehicle,No,No,No,80,Bicyclist (includes pillion passengers),Male,69
+20176001,TAS,October,2017,Wednesday,07:13,Multiple vehicle,No,No,Yes,70,Driver,Female,33
+20176009,TAS,October,2017,Monday,09:10,Pedestrian,No,No,No,50,Pedestrian,Male,65
+20176017,TAS,October,2017,Friday,12:15,Single vehicle,No,No,No,100,Motorcycle rider,Male,65
+20176021,TAS,October,2017,Sunday,12:15,Single vehicle,No,No,No,100,Driver,Male,78
+20177002,NT,October,2017,Saturday,20:06,Pedestrian,No,No,No,50,Pedestrian,Male,39
+20177005,NT,October,2017,Thursday,12:39,Pedestrian,Yes,No,No,10,Pedestrian,Female,59
+20177013,NT,October,2017,Thursday,17:33,Single vehicle,No,No,No,80,Driver,Male,18
+20177024,NT,October,2017,Tuesday,11:00,Single vehicle,No,No,No,110,Passenger,Female,34
+20171002,NSW,September,2017,Friday,14:30,Single vehicle,No,No,No,50,Driver,Female,44
+20171015,NSW,September,2017,Monday,06:10,Multiple vehicle,No,No,No,60,Driver,Male,19
+20171037,NSW,September,2017,Tuesday,20:30,Single vehicle,No,No,No,100,Driver,Male,38
+20171054,NSW,September,2017,Monday,18:00,Single vehicle,No,No,No,50,Motorcycle rider,Male,40
+20171064,NSW,September,2017,Sunday,04:40,Pedestrian,No,No,No,60,Pedestrian,Female,19
+20171070,NSW,September,2017,Thursday,09:54,Pedestrian,No,No,No,40,Pedestrian,Female,78
+20171082,NSW,September,2017,Thursday,20:00,Multiple vehicle,No,No,No,50,Driver,Male,42
+20171085,NSW,September,2017,Friday,17:30,Single vehicle,No,No,No,50,Driver,Male,59
+20171103,NSW,September,2017,Tuesday,08:50,Multiple vehicle,No,No,Yes,100,Passenger,Female,72
+20171112,NSW,September,2017,Saturday,16:09,Single vehicle,No,No,No,100,Driver,Female,67
+20171116,NSW,September,2017,Wednesday,05:03,Multiple vehicle,No,No,Yes,110,Passenger,Male,40
+20171120,NSW,September,2017,Monday,07:40,Single vehicle,No,No,No,80,Driver,Female,77
+20171147,NSW,September,2017,Saturday,02:40,Single vehicle,No,No,No,50,Driver,Male,39
+20171147,NSW,September,2017,Saturday,02:40,Single vehicle,No,No,No,50,Passenger,Male,31
+20171147,NSW,September,2017,Saturday,02:40,Single vehicle,No,No,No,50,Passenger,Female,22
+20171148,NSW,September,2017,Friday,13:20,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,46
+20171166,NSW,September,2017,Friday,12:30,Multiple vehicle,No,Yes,No,80,Driver,Male,34
+20171195,NSW,September,2017,Friday,15:40,Multiple vehicle,No,No,No,80,Driver,Male,43
+20171204,NSW,September,2017,Monday,01:25,Single vehicle,No,No,No,60,Driver,Male,19
+20171234,NSW,September,2017,Friday,20:50,Pedestrian,No,Yes,No,100,Pedestrian,Male,62
+20171248,NSW,September,2017,Sunday,20:49,Single vehicle,No,No,No,70,Passenger,Male,18
+20171274,NSW,September,2017,Saturday,01:28,Single vehicle,No,No,No,70,Driver,Male,19
+20171274,NSW,September,2017,Saturday,01:28,Single vehicle,No,No,No,70,Passenger,Male,20
+20171284,NSW,September,2017,Thursday,11:05,Single vehicle,No,No,No,110,Passenger,Female,16
+20171292,NSW,September,2017,Saturday,11:35,Multiple vehicle,No,No,No,80,Motorcycle rider,Male,42
+20171311,NSW,September,2017,Tuesday,18:22,Single vehicle,No,No,No,50,Driver,Male,69
+20171320,NSW,September,2017,Thursday,18:57,Pedestrian,No,No,No,60,Pedestrian,Male,54
+20171326,NSW,September,2017,Wednesday,13:30,Single vehicle,No,No,No,100,Passenger,Male,87
+20171341,NSW,September,2017,Saturday,19:15,Pedestrian,No,No,No,60,Pedestrian,Male,81
+20171351,NSW,September,2017,Thursday,15:10,Multiple vehicle,No,No,No,80,Motorcycle rider,Male,64
+20172008,VIC,September,2017,Sunday,16:40,Multiple vehicle,No,No,No,80,Passenger,Male,32
+20172020,VIC,September,2017,Monday,16:45,Multiple vehicle,No,No,No,100,Driver,Female,40
+20172054,VIC,September,2017,Friday,19:42,Multiple vehicle,No,No,No,50,Motorcycle rider,Male,52
+20172113,VIC,September,2017,Monday,17:50,Multiple vehicle,No,No,Yes,100,Driver,Male,44
+20172115,VIC,September,2017,Friday,10:40,Multiple vehicle,No,No,No,100,Driver,Male,69
+20172167,VIC,September,2017,Wednesday,07:00,Single vehicle,No,No,No,100,Driver,Male,21
+20172171,VIC,September,2017,Sunday,16:45,Single vehicle,No,No,No,80,Passenger,Female,15
+20172171,VIC,September,2017,Sunday,16:45,Single vehicle,No,No,No,80,Driver,Female,18
+20172186,VIC,September,2017,Thursday,16:40,Pedestrian,Yes,No,No,60,Pedestrian,Male,67
+20172187,VIC,September,2017,Sunday,13:30,Multiple vehicle,-9,No,No,-9,Motorcycle rider,Male,29
+20172197,VIC,September,2017,Wednesday,11:18,Single vehicle,No,No,No,100,Driver,Female,18
+20172199,VIC,September,2017,Sunday,14:08,Multiple vehicle,No,No,No,100,Driver,Female,77
+20172201,VIC,September,2017,Sunday,04:30,Single vehicle,No,No,No,50,Motorcycle rider,Male,20
+20172206,VIC,September,2017,Tuesday,14:20,Multiple vehicle,-9,No,No,-9,Passenger,Female,16
+20172207,VIC,September,2017,Saturday,19:20,Single vehicle,No,No,No,100,Motorcycle rider,Male,46
+20172227,VIC,September,2017,Saturday,08:05,Multiple vehicle,No,No,No,100,Passenger,Female,61
+20172227,VIC,September,2017,Saturday,08:05,Multiple vehicle,No,No,No,100,Driver,Male,69
+20172229,VIC,September,2017,Sunday,12:50,Multiple vehicle,-9,No,No,-9,Driver,Male,32
+20173003,QLD,September,2017,Sunday,05:00,Single vehicle,No,No,No,80,Motorcycle rider,Male,24
+20173010,QLD,September,2017,Saturday,12:00,Single vehicle,No,No,No,100,Motorcycle rider,Male,44
+20173011,QLD,September,2017,Sunday,04:00,Multiple vehicle,No,No,No,100,Driver,Male,24
+20173017,QLD,September,2017,Sunday,17:00,Single vehicle,No,No,No,80,Driver,Male,23
+20173033,QLD,September,2017,Monday,11:00,Single vehicle,No,No,Yes,100,Driver,Male,26
+20173036,QLD,September,2017,Wednesday,08:00,Single vehicle,No,No,No,100,Passenger,Male,5
+20173036,QLD,September,2017,Wednesday,08:00,Single vehicle,No,No,No,100,Passenger,Male,41
+20173037,QLD,September,2017,Saturday,02:00,Single vehicle,No,No,No,70,Driver,Male,20
+20173045,QLD,September,2017,Friday,06:00,Pedestrian,No,No,No,110,Pedestrian,Male,61
+20173050,QLD,September,2017,Monday,12:00,Single vehicle,No,No,No,100,Driver,Male,53
+20173050,QLD,September,2017,Monday,12:00,Single vehicle,No,No,No,100,Passenger,Male,42
+20173055,QLD,September,2017,Wednesday,09:00,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,87
+20173074,QLD,September,2017,Saturday,22:00,Single vehicle,No,No,No,60,Motorcycle rider,Male,31
+20173085,QLD,September,2017,Monday,15:00,Pedestrian,No,Yes,No,50,Pedestrian,Female,89
+20173096,QLD,September,2017,Wednesday,09:00,Single vehicle,No,No,No,100,Driver,Male,48
+20173097,QLD,September,2017,Friday,19:00,Multiple vehicle,No,No,No,50,Driver,Male,32
+20173117,QLD,September,2017,Wednesday,16:00,Single vehicle,No,No,No,50,Other,Female,22
+20173120,QLD,September,2017,Saturday,11:00,Pedestrian,No,No,No,70,Pedestrian,Male,23
+20173134,QLD,September,2017,Tuesday,00:00,Single vehicle,No,No,Yes,100,Passenger,Male,25
+20173144,QLD,September,2017,Monday,19:00,Multiple vehicle,No,No,No,100,Driver,Female,49
+20173177,QLD,September,2017,Tuesday,09:00,Multiple vehicle,No,No,No,60,Bicyclist (includes pillion passengers),Male,75
+20173192,QLD,September,2017,Tuesday,08:00,Single vehicle,No,No,No,110,Passenger,Female,73
+20173192,QLD,September,2017,Tuesday,08:00,Single vehicle,No,No,No,110,Passenger,Female,47
+20173195,QLD,September,2017,Saturday,11:00,Single vehicle,No,No,No,100,Driver,Male,22
+20173203,QLD,September,2017,Tuesday,12:00,Multiple vehicle,No,No,Yes,110,Driver,Male,70
+20173213,QLD,September,2017,Saturday,06:00,Single vehicle,No,No,No,80,Driver,Male,64
+20173215,QLD,September,2017,Wednesday,12:00,Single vehicle,No,No,No,50,Driver,Female,86
+20173222,QLD,September,2017,Sunday,17:00,Single vehicle,No,No,No,100,Passenger,Female,27
+20173223,QLD,September,2017,Tuesday,20:00,Pedestrian,No,No,No,60,Pedestrian,Male,79
+20174004,SA,September,2017,Wednesday,07:40,Single vehicle,No,No,No,100,Driver,Male,55
+20174013,SA,September,2017,Friday,17:30,Multiple vehicle,No,No,No,60,Driver,Male,83
+20174022,SA,September,2017,Saturday,17:30,Multiple vehicle,No,No,No,80,Driver,Male,22
+20174048,SA,September,2017,Thursday,02:35,Single vehicle,No,No,No,80,Driver,Female,23
+20174049,SA,September,2017,Thursday,23:20,Single vehicle,No,No,No,40,Motorcycle rider,Male,21
+20174050,SA,September,2017,Monday,00:25,Single vehicle,No,No,No,110,Driver,Male,71
+20174088,SA,September,2017,Tuesday,13:27,Multiple vehicle,No,No,No,110,Motorcycle rider,Male,58
+20175005,WA,September,2017,Saturday,14:54,Single vehicle,No,No,No,100,Driver,Male,34
+20175006,WA,September,2017,Monday,15:49,Multiple vehicle,No,Yes,Yes,80,Passenger,Male,66
+20175027,WA,September,2017,Friday,11:48,Single vehicle,No,No,No,60,Bicyclist (includes pillion passengers),Male,71
+20175049,WA,September,2017,Monday,18:17,Single vehicle,No,No,No,70,Motorcycle rider,Male,29
+20175053,WA,September,2017,Wednesday,13:40,Single vehicle,No,No,No,110,Driver,Female,64
+20175056,WA,September,2017,Sunday,06:09,Multiple vehicle,No,No,No,110,Driver,Male,53
+20175075,WA,September,2017,Wednesday,17:15,Single vehicle,No,No,No,70,Driver,Male,56
+20175082,WA,September,2017,Thursday,05:30,Multiple vehicle,No,Yes,No,90,Bicyclist (includes pillion passengers),Male,51
+20175098,WA,September,2017,Friday,19:30,Multiple vehicle,No,No,No,110,Pedestrian,Female,39
+20175119,WA,September,2017,Friday,15:29,Single vehicle,No,No,No,110,Driver,Male,69
+20175146,WA,September,2017,Monday,19:50,Multiple vehicle,No,No,No,60,Pedestrian,Female,86
+20175149,WA,September,2017,Friday,16:07,Single vehicle,No,No,No,60,Motorcycle rider,Male,22
+20176002,TAS,September,2017,Sunday,17:52,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,66
+20176019,TAS,September,2017,Tuesday,08:07,Multiple vehicle,No,Yes,No,90,Driver,Male,30
+20177011,NT,September,2017,Saturday,18:20,Single vehicle,No,No,No,110,Driver,Male,30
+20177017,NT,September,2017,Friday,20:09,Pedestrian,No,No,No,80,Pedestrian,Male,41
+20171012,NSW,August,2017,Friday,14:43,Multiple vehicle,No,Yes,No,100,Driver,Male,47
+20171012,NSW,August,2017,Friday,14:43,Multiple vehicle,No,Yes,No,100,Driver,Female,60
+20171017,NSW,August,2017,Thursday,14:50,Single vehicle,No,No,No,60,Driver,Male,25
+20171027,NSW,August,2017,Saturday,12:00,Multiple vehicle,Yes,No,No,60,Driver,Female,77
+20171038,NSW,August,2017,Friday,20:17,Multiple vehicle,No,No,No,80,Driver,Male,54
+20171042,NSW,August,2017,Saturday,05:12,Single vehicle,No,No,No,100,Passenger,Female,19
+20171048,NSW,August,2017,Saturday,07:56,Multiple vehicle,No,No,No,100,Driver,Male,44
+20171059,NSW,August,2017,Thursday,08:00,Multiple vehicle,No,No,Yes,100,Driver,Male,29
+20171067,NSW,August,2017,Sunday,14:27,Multiple vehicle,No,No,No,100,Motorcycle rider,Male,17
+20171071,NSW,August,2017,Wednesday,13:50,Single vehicle,No,No,Yes,100,Driver,Male,48
+20171072,NSW,August,2017,Tuesday,11:50,Single vehicle,No,No,No,50,Passenger,Female,90
+20171073,NSW,August,2017,Wednesday,16:30,Multiple vehicle,No,No,No,60,Bicyclist (includes pillion passengers),Male,24
+20171075,NSW,August,2017,Saturday,15:50,Single vehicle,No,No,No,100,Passenger,Female,46
+20171091,NSW,August,2017,Saturday,11:01,Single vehicle,No,No,No,90,Driver,Male,24
+20171096,NSW,August,2017,Monday,09:15,Multiple vehicle,No,No,No,100,Motorcycle rider,Male,60
+20171100,NSW,August,2017,Wednesday,16:15,Single vehicle,No,No,No,100,Driver,Male,66
+20171111,NSW,August,2017,Wednesday,23:54,Single vehicle,No,No,No,60,Driver,Male,17
+20171114,NSW,August,2017,Tuesday,08:50,Multiple vehicle,No,No,No,70,Driver,Female,43
+20171118,NSW,August,2017,Monday,09:30,Single vehicle,No,No,No,100,Driver,Female,55
+20171119,NSW,August,2017,Wednesday,07:35,Pedestrian,No,No,No,60,Pedestrian,Female,75
+20171125,NSW,August,2017,Wednesday,17:45,Multiple vehicle,No,No,No,80,Driver,Female,40
+20171136,NSW,August,2017,Monday,03:00,Single vehicle,No,No,No,80,Driver,Male,20
+20171169,NSW,August,2017,Wednesday,13:35,Multiple vehicle,No,No,Yes,110,Driver,Female,65
+20171182,NSW,August,2017,Sunday,13:30,Multiple vehicle,No,No,No,80,Driver,Male,37
+20171207,NSW,August,2017,Sunday,16:35,Single vehicle,No,No,No,110,Passenger,Female,64
+20171207,NSW,August,2017,Sunday,16:35,Single vehicle,No,No,No,110,Passenger,Female,46
+20171229,NSW,August,2017,Monday,15:20,Multiple vehicle,No,Yes,No,100,Motorcycle rider,Male,22
+20171249,NSW,August,2017,Thursday,11:30,Multiple vehicle,No,No,No,60,Driver,Male,45
+20171252,NSW,August,2017,Saturday,10:50,Multiple vehicle,No,No,No,80,Driver,Male,32
+20171266,NSW,August,2017,Sunday,12:00,Single vehicle,No,No,No,50,Driver,Male,77
+20171282,NSW,August,2017,Tuesday,09:00,Multiple vehicle,No,No,Yes,100,Driver,Female,49
+20171283,NSW,August,2017,Wednesday,07:30,Pedestrian,No,No,No,50,Pedestrian,Male,84
+20171295,NSW,August,2017,Monday,08:55,Single vehicle,No,No,No,100,Driver,Female,75
+20171306,NSW,August,2017,Tuesday,16:00,Multiple vehicle,No,No,No,110,Driver,Male,69
+20171310,NSW,August,2017,Friday,04:45,Single vehicle,No,No,No,100,Driver,Male,29
+20171314,NSW,August,2017,Tuesday,11:00,Single vehicle,No,No,No,110,Driver,Male,19
+20171319,NSW,August,2017,Sunday,19:45,Single vehicle,No,No,No,50,Driver,Male,34
+20171329,NSW,August,2017,Saturday,22:45,Single vehicle,No,No,No,100,Passenger,Female,19
+20171332,NSW,August,2017,Thursday,12:15,Pedestrian,No,Yes,No,100,Pedestrian,Male,50
+20171342,NSW,August,2017,Thursday,10:00,Pedestrian,No,No,No,60,Pedestrian,Male,83
+20171353,NSW,August,2017,Thursday,13:30,Multiple vehicle,No,No,No,60,Driver,Female,93
+20171354,NSW,August,2017,Tuesday,00:30,Single vehicle,No,No,No,50,Passenger,Male,24
+20172028,VIC,August,2017,Saturday,15:40,Single vehicle,No,No,No,60,Driver,Male,28
+20172037,VIC,August,2017,Thursday,21:40,Pedestrian,-9,No,No,-9,Pedestrian,Male,56
+20172046,VIC,August,2017,Sunday,05:10,Single vehicle,No,No,No,60,Driver,Male,23
+20172059,VIC,August,2017,Tuesday,18:15,Multiple vehicle,No,No,No,100,Driver,Female,80
+20172075,VIC,August,2017,Tuesday,06:01,Multiple vehicle,No,No,Yes,60,Motorcycle rider,Male,49
+20172127,VIC,August,2017,Monday,00:25,Pedestrian,No,No,No,60,Pedestrian,Male,34
+20172132,VIC,August,2017,Sunday,17:40,Multiple vehicle,No,No,No,80,Driver,Female,50
+20172140,VIC,August,2017,Friday,18:30,Multiple vehicle,No,No,No,60,Passenger,Female,87
+20172153,VIC,August,2017,Saturday,20:00,Single vehicle,No,No,No,100,Driver,Male,27
+20172165,VIC,August,2017,Friday,15:50,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,43
+20172170,VIC,August,2017,Wednesday,10:20,Multiple vehicle,No,No,Yes,110,Driver,Male,82
+20172172,VIC,August,2017,Wednesday,19:18,Multiple vehicle,No,No,No,100,Passenger,Female,14
+20172172,VIC,August,2017,Wednesday,19:18,Multiple vehicle,No,No,No,100,Driver,Female,44
+20172183,VIC,August,2017,Tuesday,18:25,Multiple vehicle,No,No,No,60,Passenger,Male,18
+20172189,VIC,August,2017,Wednesday,11:20,Single vehicle,No,No,No,100,Motorcycle rider,Male,65
+20172194,VIC,August,2017,Friday,05:30,Multiple vehicle,No,No,No,60,Passenger,Male,39
+20172216,VIC,August,2017,Sunday,13:20,Multiple vehicle,No,No,No,100,Bicyclist (includes pillion passengers),Male,53
+20172219,VIC,August,2017,Wednesday,12:15,Multiple vehicle,No,No,Yes,100,Driver,Male,71
+20172223,VIC,August,2017,Sunday,00:28,Single vehicle,No,No,No,100,Passenger,Male,21
+20172223,VIC,August,2017,Sunday,00:28,Single vehicle,No,No,No,100,Passenger,Male,21
+20172223,VIC,August,2017,Sunday,00:28,Single vehicle,No,No,No,100,Driver,Male,21
+20172226,VIC,August,2017,Thursday,15:05,Single vehicle,No,No,No,100,Driver,Male,35
+20172230,VIC,August,2017,Friday,01:00,Single vehicle,No,No,No,50,Passenger,Male,21
+20172230,VIC,August,2017,Friday,01:00,Single vehicle,No,No,No,50,Driver,Male,21
+20172235,VIC,August,2017,Friday,06:25,Single vehicle,No,No,No,100,Driver,Male,52
+20173022,QLD,August,2017,Wednesday,08:00,Single vehicle,No,No,No,100,Passenger,Female,76
+20173022,QLD,August,2017,Wednesday,08:00,Single vehicle,No,No,No,100,Driver,Male,72
+20173029,QLD,August,2017,Sunday,18:00,Single vehicle,No,No,No,100,Driver,Female,50
+20173061,QLD,August,2017,Sunday,03:00,Pedestrian,Yes,No,No,40,Pedestrian,Female,23
+20173095,QLD,August,2017,Thursday,19:00,Multiple vehicle,No,No,Yes,70,Driver,Male,33
+20173122,QLD,August,2017,Friday,13:00,Multiple vehicle,No,No,No,70,Driver,Male,70
+20173133,QLD,August,2017,Tuesday,17:00,Multiple vehicle,No,No,No,70,Driver,Male,56
+20173139,QLD,August,2017,Friday,17:00,Single vehicle,No,No,No,100,Passenger,Male,38
+20173149,QLD,August,2017,Sunday,10:00,Multiple vehicle,No,No,No,100,Driver,Male,81
+20173149,QLD,August,2017,Sunday,10:00,Multiple vehicle,No,No,No,100,Passenger,Female,81
+20173152,QLD,August,2017,Monday,18:00,Pedestrian,No,No,No,60,Pedestrian,Male,82
+20173153,QLD,August,2017,Saturday,01:00,Multiple vehicle,No,No,No,100,Driver,Male,19
+20173164,QLD,August,2017,Saturday,11:00,Single vehicle,No,No,No,60,Motorcycle rider,Male,48
+20173165,QLD,August,2017,Saturday,20:00,Single vehicle,No,No,No,100,Driver,Male,79
+20173169,QLD,August,2017,Thursday,09:00,Pedestrian,No,No,No,60,Pedestrian,Male,45
+20173174,QLD,August,2017,Friday,11:00,Multiple vehicle,No,No,No,70,Passenger,Female,75
+20173221,QLD,August,2017,Thursday,17:00,Multiple vehicle,No,No,Yes,100,Driver,Male,86
+20174002,SA,August,2017,Tuesday,19:10,Multiple vehicle,No,No,No,90,Driver,Female,77
+20174014,SA,August,2017,Tuesday,10:50,Single vehicle,No,No,No,110,Motorcycle rider,Male,59
+20174017,SA,August,2017,Tuesday,18:45,Single vehicle,No,No,No,100,Passenger,Male,29
+20174031,SA,August,2017,Wednesday,14:50,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,29
+20174033,SA,August,2017,Sunday,06:30,Multiple vehicle,No,No,No,80,Driver,Female,40
+20174043,SA,August,2017,Thursday,18:55,Multiple vehicle,No,No,No,10,Driver,Female,81
+20174051,SA,August,2017,Sunday,15:30,Multiple vehicle,No,No,No,50,Motorcycle rider,Male,28
+20174052,SA,August,2017,Sunday,15:10,Single vehicle,No,No,No,80,Motorcycle rider,Male,72
+20174053,SA,August,2017,Friday,15:30,Multiple vehicle,No,No,No,60,Bicyclist (includes pillion passengers),Male,51
+20174065,SA,August,2017,Monday,19:46,Multiple vehicle,No,No,No,60,Driver,Female,86
+20174069,SA,August,2017,Sunday,13:05,Single vehicle,No,No,No,80,Motorcycle rider,Male,37
+20174071,SA,August,2017,Wednesday,13:20,Single vehicle,No,No,No,60,Driver,Male,72
+20174075,SA,August,2017,Monday,17:00,Multiple vehicle,No,No,No,80,Driver,Male,18
+20174093,SA,August,2017,Saturday,04:10,Single vehicle,No,No,No,100,Driver,Male,26
+20174093,SA,August,2017,Saturday,04:10,Single vehicle,No,No,No,100,Passenger,Female,20
+20175002,WA,August,2017,Thursday,16:40,Multiple vehicle,Yes,No,No,60,Bicyclist (includes pillion passengers),Male,57
+20175033,WA,August,2017,Tuesday,12:55,Multiple vehicle,No,No,No,70,Pedestrian,Female,95
+20175034,WA,August,2017,Wednesday,10:25,Single vehicle,No,No,No,110,Driver,Male,41
+20175080,WA,August,2017,Wednesday,13:25,Multiple vehicle,No,No,No,110,Driver,Male,49
+20175088,WA,August,2017,Friday,11:34,Multiple vehicle,No,No,No,100,Driver,Male,79
+20175089,WA,August,2017,Tuesday,07:10,Multiple vehicle,No,Yes,No,70,Driver,Male,54
+20175090,WA,August,2017,Friday,20:40,Single vehicle,No,No,No,90,Passenger,Female,38
+20175094,WA,August,2017,Thursday,07:15,Multiple vehicle,No,No,No,110,Driver,Male,83
+20175094,WA,August,2017,Thursday,07:15,Multiple vehicle,No,No,No,110,Passenger,Male,6
+20175094,WA,August,2017,Thursday,07:15,Multiple vehicle,No,No,No,110,Driver,Female,38
+20175133,WA,August,2017,Thursday,16:08,Single vehicle,No,No,No,110,Motorcycle rider,Male,43
+20176003,TAS,August,2017,Monday,21:29,Pedestrian,No,No,No,100,Pedestrian,Female,26
+20176018,TAS,August,2017,Tuesday,15:17,Multiple vehicle,No,No,No,110,Bicyclist (includes pillion passengers),Female,76
+20171006,NSW,July,2017,Thursday,09:40,Pedestrian,No,No,No,40,Pedestrian,Female,74
+20171008,NSW,July,2017,Monday,08:20,Single vehicle,No,No,No,110,Passenger,Male,31
+20171009,NSW,July,2017,Saturday,13:44,Pedestrian,No,No,No,50,Pedestrian,Male,82
+20171033,NSW,July,2017,Tuesday,14:30,Pedestrian,No,No,No,60,Pedestrian,Male,67
+20171047,NSW,July,2017,Monday,17:10,Multiple vehicle,No,Yes,No,70,Motorcycle rider,Male,40
+20171050,NSW,July,2017,Sunday,06:30,Single vehicle,No,No,No,100,Driver,Female,19
+20171051,NSW,July,2017,Sunday,16:35,Single vehicle,No,No,No,110,Motorcycle rider,Male,17
+20171052,NSW,July,2017,Saturday,07:20,Multiple vehicle,No,No,No,110,Driver,Male,79
+20171084,NSW,July,2017,Wednesday,15:50,Pedestrian,No,No,No,50,Pedestrian,Male,3
+20171092,NSW,July,2017,Friday,15:50,Single vehicle,No,No,No,110,Passenger,Female,28
+20171106,NSW,July,2017,Tuesday,10:55,Single vehicle,No,No,No,60,Driver,Male,87
+20171113,NSW,July,2017,Saturday,19:30,Multiple vehicle,No,No,No,100,Driver,Male,55
+20171122,NSW,July,2017,Wednesday,13:05,Multiple vehicle,No,No,Yes,40,Driver,Female,80
+20171122,NSW,July,2017,Wednesday,13:05,Multiple vehicle,No,No,Yes,40,Passenger,Male,96
+20171134,NSW,July,2017,Friday,19:10,Pedestrian,No,No,No,70,Pedestrian,Female,68
+20171144,NSW,July,2017,Friday,08:11,Multiple vehicle,No,No,No,50,Driver,Female,82
+20171154,NSW,July,2017,Monday,11:20,Multiple vehicle,No,No,Yes,80,Passenger,Female,65
+20171158,NSW,July,2017,Sunday,05:30,Single vehicle,No,No,No,110,Driver,Male,17
+20171161,NSW,July,2017,Saturday,07:35,Multiple vehicle,No,No,Yes,110,Driver,Male,41
+20171161,NSW,July,2017,Saturday,07:35,Multiple vehicle,No,No,Yes,110,Passenger,Female,39
+20171193,NSW,July,2017,Wednesday,18:35,Multiple vehicle,No,No,Yes,110,Driver,Female,77
+20171193,NSW,July,2017,Wednesday,18:35,Multiple vehicle,No,No,Yes,110,Passenger,Female,71
+20171196,NSW,July,2017,Saturday,06:22,Single vehicle,No,No,No,50,Passenger,Female,34
+20171198,NSW,July,2017,Sunday,12:30,Multiple vehicle,No,No,No,80,Motorcycle rider,Male,31
+20171224,NSW,July,2017,Thursday,12:45,Multiple vehicle,No,No,No,50,Driver,Male,58
+20171235,NSW,July,2017,Thursday,17:40,Multiple vehicle,No,No,No,100,Driver,Female,83
+20171260,NSW,July,2017,Tuesday,13:10,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,21
+20171277,NSW,July,2017,Wednesday,04:15,Pedestrian,No,No,No,100,Pedestrian,Male,43
+20171278,NSW,July,2017,Sunday,06:30,Multiple vehicle,No,No,No,110,Passenger,Male,18
+20171278,NSW,July,2017,Sunday,06:30,Multiple vehicle,No,No,No,110,Driver,Female,67
+20171279,NSW,July,2017,Thursday,17:10,Single vehicle,No,No,No,80,Driver,Male,55
+20171296,NSW,July,2017,Monday,12:30,Single vehicle,No,No,No,80,Bicyclist (includes pillion passengers),Male,70
+20171302,NSW,July,2017,Tuesday,14:55,Pedestrian,No,No,No,50,Pedestrian,Female,78
+20171309,NSW,July,2017,Tuesday,01:09,Single vehicle,No,No,No,80,Passenger,Female,27
+20171317,NSW,July,2017,Saturday,21:45,Pedestrian,No,No,Yes,110,Pedestrian,Male,35
+20171330,NSW,July,2017,Monday,07:20,Multiple vehicle,No,Yes,No,100,Driver,Male,34
+20171335,NSW,July,2017,Thursday,04:00,Single vehicle,No,Yes,No,80,Driver,Male,32
+20171335,NSW,July,2017,Thursday,04:00,Single vehicle,No,Yes,No,80,Passenger,Male,20
+20171336,NSW,July,2017,Sunday,02:15,Single vehicle,No,No,No,100,Driver,Male,52
+20171349,NSW,July,2017,Tuesday,07:50,Pedestrian,No,Yes,No,50,Pedestrian,Male,72
+20172007,VIC,July,2017,Sunday,13:05,Multiple vehicle,No,No,No,70,Passenger,Female,33
+20172013,VIC,July,2017,Tuesday,19:25,Multiple vehicle,No,No,No,100,Driver,Male,47
+20172014,VIC,July,2017,Friday,22:44,Pedestrian,No,No,No,60,Pedestrian,Male,58
+20172018,VIC,July,2017,Tuesday,17:39,Pedestrian,No,No,No,60,Pedestrian,Female,66
+20172033,VIC,July,2017,Friday,22:30,Single vehicle,Yes,No,No,60,Driver,Male,23
+20172034,VIC,July,2017,Monday,09:55,Multiple vehicle,No,Yes,No,50,Bicyclist (includes pillion passengers),Female,42
+20172050,VIC,July,2017,Tuesday,15:35,Single vehicle,No,No,No,100,Passenger,Female,84
+20172087,VIC,July,2017,Sunday,07:18,Single vehicle,No,No,No,60,Motorcycle rider,Male,29
+20172090,VIC,July,2017,Friday,20:05,Multiple vehicle,No,No,No,80,Motorcycle rider,Male,21
+20172097,VIC,July,2017,Saturday,01:20,Single vehicle,No,No,No,100,Driver,Male,25
+20172105,VIC,July,2017,Thursday,07:26,Multiple vehicle,No,No,No,100,Driver,Female,25
+20172107,VIC,July,2017,Thursday,06:45,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,45
+20172111,VIC,July,2017,Sunday,16:25,Multiple vehicle,No,No,No,100,Driver,Female,75
+20172118,VIC,July,2017,Friday,06:40,Pedestrian,No,No,No,50,Pedestrian,Female,79
+20172124,VIC,July,2017,Friday,20:53,Multiple vehicle,No,No,No,100,Driver,Male,55
+20172152,VIC,July,2017,Sunday,19:10,Pedestrian,No,No,No,60,Pedestrian,Female,69
+20172168,VIC,July,2017,Thursday,14:45,Multiple vehicle,No,Yes,Yes,100,Driver,Male,25
+20172173,VIC,July,2017,Thursday,21:42,Single vehicle,No,No,No,-9,Passenger,Female,16
+20172202,VIC,July,2017,Monday,17:10,Multiple vehicle,No,Yes,No,100,Driver,Male,27
+20172205,VIC,July,2017,Saturday,15:00,Single vehicle,No,No,No,100,Driver,Male,31
+20172211,VIC,July,2017,Monday,10:00,Single vehicle,No,No,No,40,Driver,Male,83
+20173005,QLD,July,2017,Friday,10:00,Single vehicle,No,No,No,60,Driver,Male,45
+20173024,QLD,July,2017,Tuesday,11:00,Single vehicle,No,No,No,80,Motorcycle rider,Male,64
+20173049,QLD,July,2017,Thursday,17:00,Pedestrian,No,Yes,No,50,Pedestrian,Female,39
+20173058,QLD,July,2017,Sunday,04:00,Single vehicle,No,No,No,110,Driver,Male,29
+20173060,QLD,July,2017,Sunday,19:00,Single vehicle,No,No,No,60,Passenger,Female,57
+20173068,QLD,July,2017,Tuesday,05:00,Single vehicle,No,No,No,60,Driver,Male,35
+20173110,QLD,July,2017,Sunday,09:00,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,61
+20173118,QLD,July,2017,Saturday,22:00,Multiple vehicle,No,No,No,60,Driver,Male,27
+20173130,QLD,July,2017,Thursday,13:00,Multiple vehicle,No,No,No,60,Passenger,Female,98
+20173135,QLD,July,2017,Wednesday,04:00,Single vehicle,No,No,No,100,Passenger,Female,4
+20173135,QLD,July,2017,Wednesday,04:00,Single vehicle,No,No,No,100,Passenger,Male,0
+20173135,QLD,July,2017,Wednesday,04:00,Single vehicle,No,No,No,100,Driver,Female,38
+20173136,QLD,July,2017,Monday,13:00,Single vehicle,No,No,No,60,Driver,Female,36
+20173138,QLD,July,2017,Thursday,06:00,Single vehicle,No,No,No,60,Motorcycle rider,Male,51
+20173158,QLD,July,2017,Tuesday,12:00,Single vehicle,No,No,No,100,Driver,Male,76
+20173159,QLD,July,2017,Sunday,07:00,Multiple vehicle,No,No,No,50,Bicyclist (includes pillion passengers),Male,48
+20173172,QLD,July,2017,Sunday,00:00,Single vehicle,No,No,No,100,Driver,Male,18
+20173190,QLD,July,2017,Saturday,04:00,Single vehicle,No,No,No,80,Driver,Male,39
+20173217,QLD,July,2017,Monday,11:00,Single vehicle,No,No,No,40,Driver,Male,82
+20173220,QLD,July,2017,Saturday,10:00,Single vehicle,No,No,No,60,Passenger,Male,28
+20173220,QLD,July,2017,Saturday,10:00,Single vehicle,No,No,No,60,Passenger,Male,21
+20173225,QLD,July,2017,Sunday,15:00,Single vehicle,No,No,No,100,Driver,Male,22
+20173225,QLD,July,2017,Sunday,15:00,Single vehicle,No,No,No,100,Passenger,Male,26
+20174029,SA,July,2017,Tuesday,08:40,Pedestrian,No,No,No,60,Pedestrian,Male,72
+20174036,SA,July,2017,Friday,11:20,Pedestrian,No,Yes,No,50,Pedestrian,Female,83
+20174040,SA,July,2017,Friday,03:45,Single vehicle,No,Yes,No,50,Passenger,Male,22
+20174042,SA,July,2017,Sunday,13:48,Single vehicle,No,No,No,100,Motorcycle rider,Male,68
+20174045,SA,July,2017,Wednesday,13:45,Multiple vehicle,No,No,Yes,80,Driver,Male,21
+20174057,SA,July,2017,Tuesday,19:10,Pedestrian,No,No,No,50,Pedestrian,Male,94
+20174060,SA,July,2017,Sunday,01:45,Single vehicle,No,No,No,100,Driver,Male,21
+20174064,SA,July,2017,Saturday,04:00,Pedestrian,No,No,Yes,50,Pedestrian,Male,65
+20174068,SA,July,2017,Monday,12:08,Multiple vehicle,No,No,No,110,Driver,Male,82
+20174079,SA,July,2017,Friday,23:20,Single vehicle,No,No,No,50,Driver,Male,18
+20174090,SA,July,2017,Thursday,14:32,Multiple vehicle,No,No,No,80,Motorcycle rider,Male,62
+20175015,WA,July,2017,Friday,15:50,Single vehicle,No,No,No,50,Driver,Male,49
+20175022,WA,July,2017,Wednesday,23:15,Single vehicle,No,No,No,110,Driver,Male,24
+20175047,WA,July,2017,Saturday,19:25,Multiple vehicle,No,No,No,110,Driver,Female,28
+20175062,WA,July,2017,Monday,16:20,Single vehicle,No,No,No,80,Driver,Male,33
+20175066,WA,July,2017,Sunday,08:55,Multiple vehicle,No,No,No,60,Driver,Female,85
+20175069,WA,July,2017,Tuesday,09:00,Multiple vehicle,No,No,No,50,Driver,Male,65
+20175084,WA,July,2017,Wednesday,13:15,Single vehicle,No,No,No,110,Driver,Female,64
+20175087,WA,July,2017,Sunday,17:15,Multiple vehicle,No,No,No,60,Other,Male,91
+20175108,WA,July,2017,Thursday,17:50,Multiple vehicle,No,No,No,60,Driver,Male,84
+20175116,WA,July,2017,Sunday,20:50,Single vehicle,No,No,No,80,Driver,Male,50
+20175151,WA,July,2017,Monday,21:14,Single vehicle,No,No,No,110,Passenger,Male,22
+20176020,TAS,July,2017,Friday,13:41,Single vehicle,No,No,No,60,Passenger,Female,71
+20176024,TAS,July,2017,Friday,23:34,Single vehicle,No,No,No,100,Driver,Male,59
+20176026,TAS,July,2017,Saturday,06:13,Single vehicle,No,No,No,70,Passenger,Female,16
+20177012,NT,July,2017,Saturday,23:00,Single vehicle,No,No,No,110,Driver,Male,32
+20177015,NT,July,2017,Sunday,03:00,Single vehicle,No,No,No,110,Passenger,Male,54
+20177019,NT,July,2017,Sunday,09:07,Single vehicle,No,No,No,110,Driver,Male,51
+20171019,NSW,June,2017,Tuesday,17:20,Pedestrian,No,No,No,50,Pedestrian,Male,66
+20171020,NSW,June,2017,Tuesday,18:09,Pedestrian,No,No,No,50,Pedestrian,Female,60
+20171039,NSW,June,2017,Sunday,02:00,Multiple vehicle,No,No,No,50,Driver,Male,25
+20171039,NSW,June,2017,Sunday,02:00,Multiple vehicle,No,No,No,50,Passenger,Male,18
+20171043,NSW,June,2017,Saturday,03:11,Multiple vehicle,Yes,No,No,40,Passenger,Male,30
+20171062,NSW,June,2017,Saturday,10:00,Single vehicle,No,No,No,100,Driver,Male,63
+20171068,NSW,June,2017,Sunday,12:48,Single vehicle,No,No,No,100,Passenger,Male,78
+20171083,NSW,June,2017,Thursday,01:35,Single vehicle,No,No,No,60,Driver,Male,36
+20171141,NSW,June,2017,Sunday,15:18,Single vehicle,No,No,Yes,100,Driver,Male,74
+20171146,NSW,June,2017,Sunday,16:30,Single vehicle,No,No,No,100,Driver,Male,50
+20171160,NSW,June,2017,Sunday,18:45,Single vehicle,No,No,No,100,Driver,Male,42
+20171171,NSW,June,2017,Saturday,20:50,Single vehicle,No,No,No,100,Passenger,Male,23
+20171175,NSW,June,2017,Friday,13:37,Multiple vehicle,No,Yes,No,60,Driver,Male,30
+20171180,NSW,June,2017,Thursday,14:15,Single vehicle,No,No,No,110,Passenger,Female,83
+20171184,NSW,June,2017,Monday,15:45,Multiple vehicle,No,No,No,80,Driver,Male,34
+20171206,NSW,June,2017,Wednesday,08:40,Multiple vehicle,No,Yes,No,100,Driver,Female,93
+20171208,NSW,June,2017,Thursday,14:10,Multiple vehicle,No,No,No,60,Motorcycle rider,Female,65
+20171209,NSW,June,2017,Saturday,12:39,Pedestrian,No,No,No,50,Pedestrian,Female,59
+20171225,NSW,June,2017,Thursday,12:55,Multiple vehicle,No,No,Yes,110,Driver,Male,66
+20171225,NSW,June,2017,Thursday,12:55,Multiple vehicle,No,No,Yes,110,Passenger,Female,65
+20171233,NSW,June,2017,Wednesday,08:10,Multiple vehicle,No,No,No,50,Driver,Female,60
+20171247,NSW,June,2017,Sunday,14:25,Multiple vehicle,No,No,No,80,Motorcycle rider,Male,6
+20171265,NSW,June,2017,Friday,10:10,Pedestrian,No,No,No,50,Pedestrian,Male,74
+20171267,NSW,June,2017,Wednesday,18:10,Pedestrian,No,No,No,40,Motorcycle rider,Male,23
+20171267,NSW,June,2017,Wednesday,18:10,Pedestrian,No,No,No,40,Pedestrian,Female,58
+20171281,NSW,June,2017,Saturday,00:10,Single vehicle,No,No,No,100,Driver,Male,36
+20171290,NSW,June,2017,Wednesday,12:00,Single vehicle,No,No,No,100,Driver,Male,80
+20171298,NSW,June,2017,Monday,02:25,Single vehicle,No,No,No,110,Driver,Male,22
+20171312,NSW,June,2017,Wednesday,10:00,Single vehicle,No,No,No,80,Driver,Male,34
+20171333,NSW,June,2017,Saturday,15:30,Single vehicle,No,No,No,70,Bicyclist (includes pillion passengers),Male,45
+20171346,NSW,June,2017,Thursday,06:55,Multiple vehicle,No,No,Yes,60,Motorcycle rider,Male,35
+20172036,VIC,June,2017,Wednesday,13:50,Pedestrian,No,No,No,50,Pedestrian,Female,93
+20172048,VIC,June,2017,Saturday,21:15,Pedestrian,No,No,No,80,Pedestrian,Male,67
+20172070,VIC,June,2017,Thursday,15:10,Single vehicle,No,No,No,110,Driver,Male,36
+20172074,VIC,June,2017,Wednesday,07:51,Multiple vehicle,No,No,No,60,Driver,Male,57
+20172098,VIC,June,2017,Wednesday,10:30,Multiple vehicle,-9,No,No,-9,Driver,Male,80
+20172110,VIC,June,2017,Friday,17:10,Single vehicle,No,No,No,80,Motorcycle rider,Male,37
+20172121,VIC,June,2017,Sunday,11:00,Multiple vehicle,No,No,No,80,Motorcycle rider,Male,62
+20172133,VIC,June,2017,Tuesday,15:35,Multiple vehicle,Yes,No,No,100,Passenger,Female,80
+20172133,VIC,June,2017,Tuesday,15:35,Multiple vehicle,Yes,No,No,100,Passenger,Female,95
+20172133,VIC,June,2017,Tuesday,15:35,Multiple vehicle,Yes,No,No,100,Passenger,Female,91
+20172142,VIC,June,2017,Thursday,17:10,Single vehicle,No,No,No,100,Driver,Female,19
+20172159,VIC,June,2017,Sunday,23:03,Multiple vehicle,No,No,No,60,Driver,Male,30
+20172177,VIC,June,2017,Friday,16:10,Multiple vehicle,No,No,No,100,Driver,Male,84
+20172185,VIC,June,2017,Sunday,17:30,Pedestrian,No,No,No,80,Pedestrian,Male,30
+20172193,VIC,June,2017,Friday,14:19,Pedestrian,No,No,Yes,50,Pedestrian,Female,56
+20173008,QLD,June,2017,Monday,19:00,Pedestrian,No,No,No,100,Pedestrian,Female,19
+20173012,QLD,June,2017,Wednesday,10:00,Pedestrian,Yes,Yes,No,50,Pedestrian,Male,80
+20173018,QLD,June,2017,Saturday,12:00,Single vehicle,No,No,No,100,Motorcycle rider,Male,58
+20173021,QLD,June,2017,Thursday,17:00,Multiple vehicle,No,No,No,-9,Driver,Male,26
+20173030,QLD,June,2017,Thursday,20:00,Single vehicle,No,No,No,80,Passenger,Male,21
+20173034,QLD,June,2017,Wednesday,17:00,Single vehicle,No,No,No,80,Motorcycle rider,Male,33
+20173065,QLD,June,2017,Monday,14:00,Single vehicle,No,No,No,80,Driver,Male,70
+20173070,QLD,June,2017,Tuesday,23:00,Single vehicle,No,No,No,60,Driver,Female,31
+20173077,QLD,June,2017,Saturday,23:00,Multiple vehicle,No,No,Yes,100,Driver,Male,21
+20173084,QLD,June,2017,Saturday,18:00,Multiple vehicle,No,No,No,70,Motorcycle rider,Male,26
+20173094,QLD,June,2017,Wednesday,20:00,Pedestrian,No,No,No,60,Pedestrian,Male,44
+20173099,QLD,June,2017,Saturday,02:00,Multiple vehicle,Yes,No,Yes,100,Passenger,-9,44
+20173099,QLD,June,2017,Saturday,02:00,Multiple vehicle,Yes,No,Yes,100,Passenger,Male,42
+20173099,QLD,June,2017,Saturday,02:00,Multiple vehicle,Yes,No,Yes,100,Driver,-9,30
+20173115,QLD,June,2017,Friday,06:00,Multiple vehicle,No,Yes,No,80,Passenger,Female,28
+20173121,QLD,June,2017,Thursday,00:00,Single vehicle,No,No,No,80,Motorcycle rider,Male,31
+20173124,QLD,June,2017,Tuesday,16:00,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,70
+20173125,QLD,June,2017,Saturday,15:00,Multiple vehicle,No,No,No,100,Motorcycle rider,Female,35
+20173127,QLD,June,2017,Wednesday,07:00,Pedestrian,No,No,No,60,Pedestrian,Female,27
+20173137,QLD,June,2017,Friday,17:00,Pedestrian,No,No,No,60,Pedestrian,Male,22
+20173140,QLD,June,2017,Saturday,07:00,Multiple vehicle,No,No,No,50,Motorcycle rider,Male,57
+20173148,QLD,June,2017,Friday,00:00,Single vehicle,No,No,No,60,Passenger,Male,41
+20173148,QLD,June,2017,Friday,00:00,Single vehicle,No,No,No,60,Passenger,Male,48
+20173183,QLD,June,2017,Monday,19:00,Pedestrian,Yes,No,No,50,Pedestrian,Male,77
+20173202,QLD,June,2017,Monday,16:00,Multiple vehicle,No,Yes,No,80,Driver,Male,46
+20173207,QLD,June,2017,Sunday,01:00,Single vehicle,No,No,No,100,Motorcycle rider,Male,30
+20173228,QLD,June,2017,Friday,11:00,Pedestrian,No,No,No,50,Pedestrian,Male,64
+20174006,SA,June,2017,Friday,17:30,Multiple vehicle,No,No,No,110,Driver,Male,66
+20174008,SA,June,2017,Sunday,23:40,Single vehicle,No,No,No,50,Driver,Male,21
+20174016,SA,June,2017,Friday,17:50,Single vehicle,No,No,No,100,Driver,Male,52
+20174026,SA,June,2017,Thursday,00:40,Single vehicle,No,No,No,110,Driver,Male,26
+20174026,SA,June,2017,Thursday,00:40,Single vehicle,No,No,No,110,Passenger,Female,18
+20174030,SA,June,2017,Saturday,12:55,Single vehicle,No,No,No,60,Motorcycle rider,Male,48
+20174067,SA,June,2017,Tuesday,21:30,Pedestrian,No,No,No,40,Pedestrian,Male,35
+20174082,SA,June,2017,Friday,18:15,Pedestrian,No,No,Yes,25,Pedestrian,Male,44
+20174087,SA,June,2017,Saturday,15:02,Single vehicle,No,No,No,60,Motorcycle rider,Female,34
+20175008,WA,June,2017,Friday,17:17,Multiple vehicle,No,No,No,60,Driver,Male,84
+20175021,WA,June,2017,Tuesday,16:35,Multiple vehicle,No,No,No,60,Pedestrian,Male,79
+20175042,WA,June,2017,Friday,18:20,Single vehicle,No,No,No,100,Driver,Female,47
+20175052,WA,June,2017,Saturday,08:08,Multiple vehicle,No,No,Yes,80,Motorcycle rider,Male,21
+20175076,WA,June,2017,Thursday,13:45,Single vehicle,No,No,No,110,Passenger,Male,47
+20175092,WA,June,2017,Friday,17:30,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,23
+20175100,WA,June,2017,Friday,15:00,Multiple vehicle,No,Yes,No,40,Passenger,Female,45
+20175100,WA,June,2017,Friday,15:00,Multiple vehicle,No,Yes,No,40,Driver,Male,46
+20175110,WA,June,2017,Monday,12:45,Multiple vehicle,No,No,No,110,Driver,Male,40
+20175126,WA,June,2017,Thursday,07:00,Single vehicle,No,Yes,No,110,Driver,Male,63
+20175137,WA,June,2017,Thursday,09:20,Single vehicle,No,No,No,110,Driver,Male,45
+20175143,WA,June,2017,Sunday,08:52,Multiple vehicle,No,No,No,110,Bicyclist (includes pillion passengers),Male,76
+20176012,TAS,June,2017,Sunday,08:07,Single vehicle,No,No,No,110,Motorcycle rider,Male,55
+20176013,TAS,June,2017,Thursday,09:20,Multiple vehicle,Yes,No,No,60,Driver,Female,55
+20176014,TAS,June,2017,Sunday,19:10,Multiple vehicle,No,Yes,No,50,Motorcycle rider,Male,17
+20176025,TAS,June,2017,Thursday,21:00,Multiple vehicle,No,No,No,50,Driver,Female,42
+20176030,TAS,June,2017,Friday,08:30,Multiple vehicle,No,No,Yes,60,Driver,Female,51
+20176033,TAS,June,2017,Thursday,14:51,Multiple vehicle,No,No,No,80,Driver,Male,83
+20177014,NT,June,2017,Wednesday,23:15,Single vehicle,No,No,No,80,Driver,Male,24
+20177021,NT,June,2017,Tuesday,06:15,Pedestrian,Yes,No,No,80,Pedestrian,Female,32
+20177026,NT,June,2017,Friday,12:27,Multiple vehicle,No,No,No,100,Driver,Male,26
+20177027,NT,June,2017,Sunday,16:06,Single vehicle,No,No,No,80,Passenger,Female,25
+20177027,NT,June,2017,Sunday,16:06,Single vehicle,No,No,No,80,Driver,Male,21
+20171014,NSW,May,2017,Tuesday,10:15,Multiple vehicle,No,No,Yes,110,Passenger,Male,49
+20171021,NSW,May,2017,Tuesday,21:00,Single vehicle,No,No,No,70,Passenger,Male,20
+20171026,NSW,May,2017,Friday,03:00,Single vehicle,No,No,No,50,Driver,Male,36
+20171030,NSW,May,2017,Monday,06:06,Multiple vehicle,No,No,Yes,110,Driver,Male,19
+20171030,NSW,May,2017,Monday,06:06,Multiple vehicle,No,No,Yes,110,Driver,Female,17
+20171030,NSW,May,2017,Monday,06:06,Multiple vehicle,No,No,Yes,110,Passenger,Female,15
+20171065,NSW,May,2017,Tuesday,14:44,Multiple vehicle,No,No,No,90,Passenger,Female,79
+20171077,NSW,May,2017,Saturday,03:30,Multiple vehicle,No,No,Yes,110,Passenger,Male,12
+20171077,NSW,May,2017,Saturday,03:30,Multiple vehicle,No,No,Yes,110,Passenger,Male,9
+20171081,NSW,May,2017,Tuesday,13:30,Pedestrian,No,No,No,50,Pedestrian,Male,70
+20171130,NSW,May,2017,Friday,07:30,Multiple vehicle,No,No,No,100,Driver,Female,62
+20171164,NSW,May,2017,Friday,08:25,Single vehicle,Yes,No,No,50,Passenger,Male,75
+20171181,NSW,May,2017,Thursday,04:36,Multiple vehicle,No,No,No,60,Driver,Male,62
+20171181,NSW,May,2017,Thursday,04:36,Multiple vehicle,No,No,No,60,Passenger,Male,49
+20171185,NSW,May,2017,Tuesday,12:15,Multiple vehicle,No,No,No,70,Driver,Male,87
+20171190,NSW,May,2017,Saturday,14:20,Single vehicle,No,No,No,100,Driver,Male,28
+20171192,NSW,May,2017,Wednesday,07:05,Multiple vehicle,No,Yes,No,100,Driver,Male,45
+20171216,NSW,May,2017,Saturday,12:15,Multiple vehicle,No,No,No,60,Motorcycle rider,Female,45
+20171231,NSW,May,2017,Wednesday,18:00,Pedestrian,No,No,No,60,Pedestrian,Female,48
+20171232,NSW,May,2017,Saturday,18:30,Multiple vehicle,No,No,No,50,Driver,Male,86
+20171240,NSW,May,2017,Thursday,06:40,Single vehicle,No,No,No,50,Motorcycle rider,Male,21
+20171245,NSW,May,2017,Sunday,22:20,Pedestrian,No,No,No,50,Pedestrian,Female,36
+20171259,NSW,May,2017,Tuesday,20:20,Pedestrian,No,No,No,60,Pedestrian,Female,55
+20171268,NSW,May,2017,Friday,14:30,Single vehicle,No,No,No,100,Passenger,Female,4
+20171269,NSW,May,2017,Thursday,10:05,Multiple vehicle,No,Yes,Yes,80,Motorcycle rider,Male,40
+20171272,NSW,May,2017,Thursday,14:50,Single vehicle,No,No,No,90,Driver,Male,40
+20171273,NSW,May,2017,Saturday,14:00,Single vehicle,No,No,No,100,Driver,Male,64
+20171288,NSW,May,2017,Sunday,12:00,Single vehicle,No,No,No,60,Motorcycle rider,Male,65
+20171289,NSW,May,2017,Sunday,00:35,Pedestrian,Yes,No,No,80,Pedestrian,Female,24
+20171300,NSW,May,2017,Sunday,05:50,Pedestrian,No,No,No,100,Pedestrian,Male,20
+20171304,NSW,May,2017,Monday,06:00,Single vehicle,No,No,Yes,100,Driver,Male,63
+20171315,NSW,May,2017,Tuesday,14:11,Multiple vehicle,No,No,No,110,Driver,Male,46
+20171328,NSW,May,2017,Saturday,17:40,Pedestrian,No,No,No,50,Pedestrian,Female,91
+20171338,NSW,May,2017,Tuesday,13:07,Multiple vehicle,No,No,No,50,Motorcycle rider,Male,19
+20171347,NSW,May,2017,Friday,15:50,Single vehicle,No,No,No,100,Driver,Female,67
+20172003,VIC,May,2017,Monday,18:15,Multiple vehicle,No,No,No,100,Motorcycle rider,Male,62
+20172011,VIC,May,2017,Friday,01:50,Single vehicle,No,No,No,70,Driver,Male,22
+20172012,VIC,May,2017,Monday,17:55,Pedestrian,No,No,No,60,Pedestrian,Female,75
+20172019,VIC,May,2017,Tuesday,06:30,Single vehicle,No,No,No,80,Driver,Male,32
+20172040,VIC,May,2017,Sunday,16:05,Multiple vehicle,No,No,No,110,Passenger,Female,81
+20172040,VIC,May,2017,Sunday,16:05,Multiple vehicle,No,No,No,110,Driver,Male,91
+20172056,VIC,May,2017,Thursday,15:20,Multiple vehicle,No,No,No,40,Motorcycle rider,Male,22
+20172062,VIC,May,2017,Friday,23:45,Single vehicle,No,No,No,100,Driver,Male,36
+20172081,VIC,May,2017,Monday,08:45,Single vehicle,No,Yes,No,100,Driver,Male,21
+20172088,VIC,May,2017,Friday,13:20,Multiple vehicle,No,No,No,50,Motorcycle rider,Male,49
+20172099,VIC,May,2017,Monday,14:09,Single vehicle,No,No,No,100,Driver,Female,26
+20172106,VIC,May,2017,Monday,10:33,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,68
+20172150,VIC,May,2017,Wednesday,22:00,Single vehicle,No,No,No,60,Driver,Female,27
+20172154,VIC,May,2017,Sunday,18:20,Single vehicle,No,No,No,100,Driver,Male,89
+20172157,VIC,May,2017,Saturday,15:37,Single vehicle,No,No,No,80,Motorcycle rider,Male,42
+20172203,VIC,May,2017,Monday,13:57,Single vehicle,No,No,No,60,Driver,Female,30
+20172231,VIC,May,2017,Thursday,07:00,Multiple vehicle,No,No,No,60,Bicyclist (includes pillion passengers),Male,51
+20172232,VIC,May,2017,Sunday,11:20,Multiple vehicle,No,No,No,60,Driver,Male,59
+20172233,VIC,May,2017,Tuesday,09:50,Single vehicle,No,No,No,100,Driver,Female,18
+20173016,QLD,May,2017,Monday,10:00,Multiple vehicle,No,No,No,100,Driver,Male,86
+20173023,QLD,May,2017,Saturday,01:00,Pedestrian,No,No,No,80,Pedestrian,Male,19
+20173035,QLD,May,2017,Sunday,17:00,Multiple vehicle,No,No,No,100,Motorcycle rider,Male,62
+20173044,QLD,May,2017,Wednesday,17:00,Multiple vehicle,No,No,No,70,Bicyclist (includes pillion passengers),Male,16
+20173046,QLD,May,2017,Tuesday,09:00,Multiple vehicle,No,No,No,50,Driver,Female,46
+20173051,QLD,May,2017,Thursday,18:00,Multiple vehicle,No,No,No,100,Driver,Female,54
+20173052,QLD,May,2017,Saturday,16:00,Multiple vehicle,No,No,No,80,Driver,Female,26
+20173064,QLD,May,2017,Friday,21:00,Pedestrian,No,No,No,80,Pedestrian,Male,41
+20173069,QLD,May,2017,Saturday,08:00,Multiple vehicle,No,No,No,100,Driver,Male,45
+20173081,QLD,May,2017,Thursday,11:00,Single vehicle,No,Yes,No,100,Driver,Male,70
+20173088,QLD,May,2017,Thursday,10:00,Multiple vehicle,No,No,No,60,Passenger,Female,68
+20173092,QLD,May,2017,Monday,17:00,Pedestrian,No,No,No,70,Pedestrian,Male,52
+20173093,QLD,May,2017,Sunday,14:00,Multiple vehicle,No,No,No,80,Motorcycle pillion passenger,Female,45
+20173093,QLD,May,2017,Sunday,14:00,Multiple vehicle,No,No,No,80,Motorcycle rider,Male,50
+20173098,QLD,May,2017,Tuesday,13:00,Pedestrian,No,No,No,60,Pedestrian,Male,91
+20173105,QLD,May,2017,Saturday,03:00,Single vehicle,No,No,No,100,Driver,Female,43
+20173109,QLD,May,2017,Tuesday,11:00,Multiple vehicle,No,No,No,80,Motorcycle rider,Male,40
+20173112,QLD,May,2017,Wednesday,16:00,Multiple vehicle,No,No,No,50,Motorcycle rider,Male,39
+20173141,QLD,May,2017,Friday,19:00,Pedestrian,No,No,No,60,Pedestrian,Female,19
+20173156,QLD,May,2017,Thursday,02:00,Multiple vehicle,No,No,Yes,100,Driver,Male,34
+20173168,QLD,May,2017,Tuesday,08:00,Multiple vehicle,No,Yes,No,40,Motorcycle rider,Male,43
+20173176,QLD,May,2017,Saturday,22:00,Single vehicle,No,No,No,80,Driver,Female,23
+20173182,QLD,May,2017,Thursday,06:00,Single vehicle,No,Yes,No,100,Driver,Male,37
+20173194,QLD,May,2017,Tuesday,16:00,Single vehicle,No,No,No,100,Motorcycle rider,Female,40
+20174005,SA,May,2017,Tuesday,11:00,Single vehicle,No,No,No,100,Driver,Male,79
+20174024,SA,May,2017,Wednesday,14:00,Single vehicle,No,No,No,100,Driver,Male,59
+20174038,SA,May,2017,Sunday,11:28,Pedestrian,No,No,No,100,Pedestrian,Male,2
+20174046,SA,May,2017,Thursday,13:15,Single vehicle,No,No,No,80,Motorcycle rider,Male,40
+20174081,SA,May,2017,Sunday,14:30,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,34
+20175043,WA,May,2017,Sunday,10:55,Single vehicle,No,No,No,60,Motorcycle rider,Male,45
+20175050,WA,May,2017,Monday,07:30,Single vehicle,No,No,No,110,Driver,Male,53
+20175081,WA,May,2017,Saturday,10:38,Multiple vehicle,No,No,No,50,Pedestrian,Male,74
+20175097,WA,May,2017,Sunday,12:30,Single vehicle,No,No,No,100,Passenger,Male,20
+20175109,WA,May,2017,Wednesday,00:14,Single vehicle,No,No,No,60,Passenger,Male,27
+20175140,WA,May,2017,Monday,19:00,Single vehicle,No,No,No,110,Driver,Male,44
+20176004,TAS,May,2017,Tuesday,09:30,Multiple vehicle,No,No,No,80,Driver,Male,89
+20176006,TAS,May,2017,Saturday,14:30,Multiple vehicle,No,No,No,100,Driver,Female,49
+20176008,TAS,May,2017,Friday,20:30,Single vehicle,No,No,No,100,Driver,Male,26
+20176032,TAS,May,2017,Sunday,17:35,Multiple vehicle,No,No,No,80,Driver,Male,45
+20176032,TAS,May,2017,Sunday,17:35,Multiple vehicle,No,No,No,80,Passenger,Female,48
+20177001,NT,May,2017,Friday,06:12,Multiple vehicle,No,No,No,100,Motorcycle rider,Male,48
+20178003,ACT,May,2017,Wednesday,11:55,Multiple vehicle,No,No,No,80,Driver,Male,91
+20171053,NSW,April,2017,Tuesday,11:43,Multiple vehicle,No,No,Yes,90,Driver,Female,39
+20171053,NSW,April,2017,Tuesday,11:43,Multiple vehicle,No,No,Yes,90,Passenger,Male,14
+20171056,NSW,April,2017,Monday,13:30,Single vehicle,No,No,No,60,Passenger,Female,11
+20171056,NSW,April,2017,Monday,13:30,Single vehicle,No,No,No,60,Driver,Female,43
+20171056,NSW,April,2017,Monday,13:30,Single vehicle,No,No,No,60,Passenger,Male,7
+20171058,NSW,April,2017,Sunday,11:00,Single vehicle,No,No,No,100,Motorcycle rider,Male,69
+20171060,NSW,April,2017,Thursday,15:50,Multiple vehicle,No,No,No,100,Driver,Male,56
+20171076,NSW,April,2017,Saturday,09:20,Single vehicle,No,No,No,80,Motorcycle rider,Male,44
+20171101,NSW,April,2017,Sunday,13:50,Multiple vehicle,No,No,Yes,80,Motorcycle rider,Male,25
+20171129,NSW,April,2017,Wednesday,13:30,Multiple vehicle,No,Yes,No,80,Motorcycle rider,Female,48
+20171133,NSW,April,2017,Saturday,18:35,Pedestrian,No,No,No,50,Pedestrian,Male,68
+20171149,NSW,April,2017,Tuesday,10:15,Single vehicle,No,No,No,110,Driver,Female,50
+20171157,NSW,April,2017,Saturday,15:40,Multiple vehicle,No,No,No,100,Motorcycle rider,Female,44
+20171163,NSW,April,2017,Wednesday,07:30,Multiple vehicle,No,Yes,No,60,Passenger,Female,72
+20171179,NSW,April,2017,Tuesday,19:00,Single vehicle,No,No,No,100,Driver,Male,34
+20171188,NSW,April,2017,Wednesday,17:10,Single vehicle,No,No,No,100,Passenger,Female,18
+20171201,NSW,April,2017,Wednesday,11:18,Pedestrian,Yes,No,No,50,Pedestrian,Male,72
+20171202,NSW,April,2017,Monday,19:30,Single vehicle,No,No,No,80,Driver,Male,51
+20171210,NSW,April,2017,Tuesday,10:15,Multiple vehicle,No,No,Yes,100,Passenger,Female,52
+20171219,NSW,April,2017,Tuesday,21:50,Single vehicle,No,No,No,50,Driver,Male,20
+20171220,NSW,April,2017,Saturday,14:50,Single vehicle,No,No,No,110,Motorcycle rider,Male,36
+20171223,NSW,April,2017,Thursday,08:06,Single vehicle,No,No,No,60,Motorcycle rider,Male,70
+20171228,NSW,April,2017,Saturday,15:40,Single vehicle,No,No,No,100,Motorcycle rider,Male,26
+20171230,NSW,April,2017,Sunday,00:01,Single vehicle,No,No,No,50,Driver,Male,17
+20171242,NSW,April,2017,Thursday,21:30,Single vehicle,No,No,No,100,Driver,Male,38
+20171256,NSW,April,2017,Wednesday,12:10,Single vehicle,No,No,No,100,Motorcycle rider,Male,61
+20171276,NSW,April,2017,Wednesday,15:38,Pedestrian,No,Yes,No,40,Pedestrian,Female,5
+20171301,NSW,April,2017,Saturday,18:15,Multiple vehicle,No,No,No,60,Bicyclist (includes pillion passengers),Male,50
+20171344,NSW,April,2017,Wednesday,07:15,Multiple vehicle,No,No,No,100,Driver,Male,59
+20171345,NSW,April,2017,Thursday,06:03,Multiple vehicle,No,No,No,100,Driver,Male,27
+20171352,NSW,April,2017,Wednesday,12:50,Single vehicle,No,No,No,100,Passenger,Female,75
+20172004,VIC,April,2017,Friday,13:45,Multiple vehicle,No,No,Yes,50,Driver,Male,77
+20172005,VIC,April,2017,Friday,12:10,Pedestrian,No,No,No,60,Pedestrian,Male,4
+20172006,VIC,April,2017,Tuesday,08:10,Single vehicle,No,No,No,80,Bicyclist (includes pillion passengers),Male,64
+20172010,VIC,April,2017,Tuesday,17:30,Pedestrian,No,No,No,60,Pedestrian,Male,85
+20172015,VIC,April,2017,Friday,17:38,Pedestrian,No,Yes,No,60,Pedestrian,Male,19
+20172017,VIC,April,2017,Friday,08:50,Multiple vehicle,No,No,No,100,Bicyclist (includes pillion passengers),Male,55
+20172041,VIC,April,2017,Friday,13:45,Multiple vehicle,No,Yes,No,100,Driver,Male,68
+20172042,VIC,April,2017,Sunday,14:30,Single vehicle,No,No,No,80,Passenger,Male,19
+20172042,VIC,April,2017,Sunday,14:30,Single vehicle,No,No,No,80,Passenger,Male,19
+20172052,VIC,April,2017,Tuesday,18:34,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,40
+20172053,VIC,April,2017,Thursday,02:20,Single vehicle,No,No,Yes,80,Driver,Male,40
+20172092,VIC,April,2017,Saturday,16:45,Multiple vehicle,No,No,No,100,Driver,Male,91
+20172095,VIC,April,2017,Monday,23:35,Single vehicle,No,No,No,110,Driver,Male,73
+20172104,VIC,April,2017,Tuesday,11:00,Single vehicle,No,No,No,40,Bicyclist (includes pillion passengers),Male,77
+20172109,VIC,April,2017,Friday,18:15,Multiple vehicle,No,No,No,70,Driver,Male,89
+20172123,VIC,April,2017,Friday,19:30,Single vehicle,No,No,No,100,Driver,Male,54
+20172138,VIC,April,2017,Thursday,02:44,Single vehicle,No,No,No,80,Driver,Male,19
+20172160,VIC,April,2017,Tuesday,07:30,Single vehicle,No,No,No,100,Driver,Male,33
+20172164,VIC,April,2017,Sunday,09:56,Multiple vehicle,No,No,No,70,Motorcycle rider,Male,46
+20172166,VIC,April,2017,Wednesday,14:45,Multiple vehicle,No,No,No,100,Passenger,Female,69
+20172175,VIC,April,2017,Wednesday,17:15,Single vehicle,No,No,No,100,Driver,Male,69
+20172176,VIC,April,2017,Tuesday,16:19,Multiple vehicle,No,No,No,100,Driver,Male,21
+20172191,VIC,April,2017,Friday,14:00,Multiple vehicle,No,No,No,100,Driver,Male,26
+20172215,VIC,April,2017,Wednesday,16:30,Multiple vehicle,No,No,No,100,Passenger,Female,75
+20172215,VIC,April,2017,Wednesday,16:30,Multiple vehicle,No,No,No,100,Driver,Male,79
+20172221,VIC,April,2017,Sunday,16:20,Multiple vehicle,No,No,No,100,Motorcycle rider,Male,27
+20172234,VIC,April,2017,Monday,17:00,Single vehicle,Yes,No,No,100,Passenger,Male,38
+20172236,VIC,April,2017,Friday,21:05,Pedestrian,No,No,No,-9,Pedestrian,Male,43
+20173007,QLD,April,2017,Sunday,11:00,Multiple vehicle,No,No,No,60,Driver,Female,79
+20173019,QLD,April,2017,Saturday,23:00,Single vehicle,No,No,No,100,Passenger,Male,31
+20173020,QLD,April,2017,Monday,12:00,Single vehicle,No,No,No,100,Passenger,Male,90
+20173027,QLD,April,2017,Tuesday,22:00,Single vehicle,No,No,No,80,Driver,Male,37
+20173038,QLD,April,2017,Wednesday,13:00,Multiple vehicle,No,No,No,100,Passenger,Male,90
+20173082,QLD,April,2017,Friday,11:00,Multiple vehicle,No,No,No,100,Passenger,Female,101
+20173126,QLD,April,2017,Saturday,23:00,Single vehicle,No,No,No,80,Motorcycle rider,Male,32
+20173146,QLD,April,2017,Sunday,11:00,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,48
+20173180,QLD,April,2017,Friday,02:00,Single vehicle,No,No,No,50,Driver,Male,30
+20173191,QLD,April,2017,Tuesday,05:00,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,34
+20173224,QLD,April,2017,Monday,15:00,Multiple vehicle,No,No,No,100,Driver,Female,30
+20173224,QLD,April,2017,Monday,15:00,Multiple vehicle,No,No,No,100,Passenger,Male,22
+20174019,SA,April,2017,Wednesday,18:40,Multiple vehicle,No,No,No,110,Driver,Male,58
+20174021,SA,April,2017,Wednesday,03:00,Single vehicle,No,No,No,100,Driver,Male,26
+20174027,SA,April,2017,Tuesday,15:25,Single vehicle,No,No,No,50,Driver,Female,82
+20174037,SA,April,2017,Wednesday,06:04,Multiple vehicle,No,No,No,110,Driver,Male,31
+20174037,SA,April,2017,Wednesday,06:04,Multiple vehicle,No,No,No,110,Driver,Male,56
+20174054,SA,April,2017,Wednesday,15:00,Multiple vehicle,No,No,No,50,Motorcycle rider,Male,66
+20174072,SA,April,2017,Monday,13:35,Multiple vehicle,No,No,No,60,Driver,Female,85
+20174074,SA,April,2017,Tuesday,16:00,Multiple vehicle,No,No,Yes,80,Driver,Female,18
+20175010,WA,April,2017,Saturday,18:20,Multiple vehicle,No,No,No,110,Passenger,Female,28
+20175010,WA,April,2017,Saturday,18:20,Multiple vehicle,No,No,No,110,Other,Female,0
+20175016,WA,April,2017,Saturday,12:00,Single vehicle,No,No,No,80,Motorcycle rider,Male,66
+20175026,WA,April,2017,Saturday,22:05,Multiple vehicle,Yes,No,No,70,Passenger,Male,16
+20175051,WA,April,2017,Monday,10:25,Single vehicle,No,No,No,90,Driver,Male,36
+20175054,WA,April,2017,Friday,00:04,Single vehicle,No,No,No,50,Passenger,Male,18
+20175061,WA,April,2017,Sunday,04:30,Single vehicle,No,No,No,110,Driver,Male,22
+20175068,WA,April,2017,Tuesday,06:16,Multiple vehicle,No,Yes,No,100,Driver,Male,18
+20175072,WA,April,2017,Saturday,20:19,Single vehicle,No,No,No,70,Passenger,Male,32
+20175072,WA,April,2017,Saturday,20:19,Single vehicle,No,No,No,70,Driver,Female,22
+20175073,WA,April,2017,Saturday,20:06,Multiple vehicle,No,No,No,50,Pedestrian,Female,21
+20175078,WA,April,2017,Thursday,14:00,Single vehicle,No,No,No,60,Bicyclist (includes pillion passengers),Male,24
+20175104,WA,April,2017,Monday,18:50,Single vehicle,No,No,No,50,Driver,Female,21
+20175120,WA,April,2017,Wednesday,21:00,Single vehicle,No,No,No,110,Driver,Male,19
+20175123,WA,April,2017,Friday,02:50,Single vehicle,No,No,No,80,Motorcycle rider,Male,44
+20175128,WA,April,2017,Tuesday,14:50,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,29
+20175131,WA,April,2017,Monday,17:30,Single vehicle,No,No,No,50,Motorcycle rider,Male,38
+20175142,WA,April,2017,Friday,17:29,Multiple vehicle,No,No,No,80,Driver,Male,90
+20175150,WA,April,2017,Friday,14:03,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,22
+20176011,TAS,April,2017,Sunday,22:48,Single vehicle,No,No,No,50,Passenger,Male,25
+20177009,NT,April,2017,Saturday,05:00,Single vehicle,No,No,No,130,Driver,Male,50
+20177018,NT,April,2017,Sunday,08:20,Single vehicle,No,No,No,110,Driver,Male,19
+20177025,NT,April,2017,Thursday,19:35,Pedestrian,No,No,No,80,Pedestrian,Male,47
+20171004,NSW,March,2017,Sunday,08:05,Pedestrian,No,No,No,50,Pedestrian,Female,3
+20171029,NSW,March,2017,Saturday,10:30,Single vehicle,No,No,No,100,Motorcycle pillion passenger,Female,50
+20171031,NSW,March,2017,Monday,06:50,Pedestrian,No,No,No,60,Pedestrian,Female,71
+20171045,NSW,March,2017,Friday,15:15,Multiple vehicle,No,No,No,100,Driver,Male,30
+20171063,NSW,March,2017,Thursday,17:20,Multiple vehicle,No,No,No,50,Driver,Female,50
+20171069,NSW,March,2017,Tuesday,16:00,Pedestrian,No,No,No,50,Pedestrian,Male,3
+20171110,NSW,March,2017,Monday,20:25,Single vehicle,No,No,No,100,Driver,Male,43
+20171115,NSW,March,2017,Thursday,17:30,Multiple vehicle,No,No,No,100,Motorcycle rider,Male,47
+20171132,NSW,March,2017,Wednesday,11:00,Pedestrian,No,No,No,50,Pedestrian,Male,81
+20171135,NSW,March,2017,Tuesday,07:45,Multiple vehicle,No,No,No,110,Driver,Female,49
+20171135,NSW,March,2017,Tuesday,07:45,Multiple vehicle,No,No,No,110,Passenger,Male,7
+20171140,NSW,March,2017,Wednesday,07:30,Single vehicle,No,No,No,100,Passenger,Male,43
+20171145,NSW,March,2017,Wednesday,21:00,Single vehicle,No,No,No,80,Driver,Male,19
+20171178,NSW,March,2017,Saturday,22:25,Single vehicle,No,No,No,70,Driver,Male,18
+20171178,NSW,March,2017,Saturday,22:25,Single vehicle,No,No,No,70,Passenger,Female,17
+20171183,NSW,March,2017,Thursday,11:50,Multiple vehicle,No,No,Yes,100,Passenger,Male,72
+20171211,NSW,March,2017,Saturday,13:15,Single vehicle,No,No,No,100,Driver,Female,27
+20171222,NSW,March,2017,Wednesday,14:00,Multiple vehicle,No,No,No,70,Driver,Male,91
+20171227,NSW,March,2017,Friday,07:58,Multiple vehicle,Yes,No,No,80,Driver,Male,18
+20171243,NSW,March,2017,Wednesday,20:10,Multiple vehicle,No,No,Yes,100,Driver,Male,46
+20171254,NSW,March,2017,Friday,05:20,Multiple vehicle,No,No,Yes,100,Driver,Male,39
+20171254,NSW,March,2017,Friday,05:20,Multiple vehicle,No,No,Yes,100,Driver,Male,32
+20171261,NSW,March,2017,Monday,16:00,Single vehicle,No,No,No,100,Motorcycle rider,Male,56
+20171262,NSW,March,2017,Sunday,07:50,Pedestrian,No,No,No,40,Pedestrian,Male,52
+20171263,NSW,March,2017,Monday,03:50,Multiple vehicle,No,Yes,No,60,Motorcycle rider,Male,35
+20171270,NSW,March,2017,Saturday,14:00,Single vehicle,No,No,No,100,Motorcycle rider,Male,51
+20171291,NSW,March,2017,Thursday,07:39,Multiple vehicle,No,No,No,100,Driver,Male,63
+20171334,NSW,March,2017,Wednesday,13:03,Single vehicle,No,No,No,60,Driver,Male,35
+20171339,NSW,March,2017,Friday,08:30,Single vehicle,No,No,No,100,Motorcycle rider,Male,33
+20172023,VIC,March,2017,Tuesday,11:10,Single vehicle,No,No,No,100,Other,Male,47
+20172025,VIC,March,2017,Sunday,01:00,Single vehicle,No,No,No,100,Driver,Male,19
+20172031,VIC,March,2017,Thursday,06:58,Multiple vehicle,No,No,Yes,100,Driver,Male,56
+20172047,VIC,March,2017,Saturday,12:22,Single vehicle,No,No,No,-9,Driver,Male,26
+20172060,VIC,March,2017,Sunday,00:25,Multiple vehicle,No,No,No,80,Driver,Female,35
+20172065,VIC,March,2017,Friday,06:30,Multiple vehicle,No,No,Yes,100,Driver,Male,49
+20172068,VIC,March,2017,Tuesday,02:30,Single vehicle,No,No,No,70,Motorcycle rider,Male,34
+20172071,VIC,March,2017,Friday,03:28,Single vehicle,No,No,No,60,Driver,Male,27
+20172072,VIC,March,2017,Thursday,11:30,Single vehicle,No,No,No,-9,Driver,Male,85
+20172085,VIC,March,2017,Saturday,04:14,Single vehicle,No,No,No,80,Driver,Male,24
+20172100,VIC,March,2017,Thursday,14:47,Multiple vehicle,No,Yes,No,80,Driver,Male,28
+20172114,VIC,March,2017,Friday,17:42,Multiple vehicle,No,No,Yes,60,Bicyclist (includes pillion passengers),Female,35
+20172130,VIC,March,2017,Tuesday,16:25,Single vehicle,No,No,No,100,Driver,Female,20
+20172135,VIC,March,2017,Friday,08:30,Multiple vehicle,No,No,Yes,100,Driver,Male,27
+20172146,VIC,March,2017,Saturday,02:00,Single vehicle,No,No,No,60,Passenger,Male,22
+20172147,VIC,March,2017,Friday,16:20,Multiple vehicle,No,No,No,100,Bicyclist (includes pillion passengers),Male,66
+20172163,VIC,March,2017,Tuesday,14:10,Single vehicle,No,No,No,100,Motorcycle rider,Male,54
+20172178,VIC,March,2017,Friday,13:30,Pedestrian,No,No,No,60,Pedestrian,Female,50
+20172182,VIC,March,2017,Tuesday,08:14,Pedestrian,No,No,No,50,Pedestrian,Male,13
+20172184,VIC,March,2017,Monday,23:55,Multiple vehicle,No,No,No,100,Motorcycle rider,Male,30
+20172190,VIC,March,2017,Saturday,11:35,Single vehicle,No,No,No,80,Passenger,Male,65
+20172217,VIC,March,2017,Friday,00:30,Single vehicle,No,No,No,100,Driver,Male,39
+20173026,QLD,March,2017,Friday,15:00,Multiple vehicle,No,No,No,100,Driver,Female,75
+20173032,QLD,March,2017,Saturday,00:00,Multiple vehicle,No,No,No,70,Passenger,Female,28
+20173089,QLD,March,2017,Monday,08:00,Multiple vehicle,No,No,No,100,Passenger,Female,30
+20173091,QLD,March,2017,Monday,10:00,Single vehicle,No,No,No,60,Motorcycle rider,Male,64
+20173101,QLD,March,2017,Sunday,23:00,Single vehicle,No,No,No,70,Motorcycle rider,Male,39
+20173106,QLD,March,2017,Monday,01:00,Multiple vehicle,No,No,No,100,Driver,Male,76
+20173142,QLD,March,2017,Wednesday,09:00,Single vehicle,No,No,No,100,Driver,Male,39
+20173151,QLD,March,2017,Saturday,10:00,Pedestrian,No,No,No,50,Pedestrian,Male,75
+20173157,QLD,March,2017,Sunday,05:00,Single vehicle,No,No,No,80,Passenger,Female,18
+20173178,QLD,March,2017,Friday,12:00,Multiple vehicle,No,Yes,No,80,Driver,Male,42
+20173181,QLD,March,2017,Monday,21:00,Multiple vehicle,No,No,Yes,100,Passenger,Male,22
+20173193,QLD,March,2017,Thursday,15:00,Multiple vehicle,No,No,Yes,80,Driver,Male,21
+20173201,QLD,March,2017,Saturday,01:00,Multiple vehicle,No,No,No,60,Passenger,Male,20
+20173209,QLD,March,2017,Thursday,09:00,Multiple vehicle,Yes,No,No,60,Motorcycle rider,Male,61
+20174011,SA,March,2017,Thursday,13:30,Single vehicle,No,No,Yes,60,Driver,Male,60
+20174018,SA,March,2017,Friday,18:45,Single vehicle,No,No,No,50,Driver,Male,64
+20174034,SA,March,2017,Saturday,00:25,Pedestrian,No,No,No,50,Pedestrian,Male,33
+20174039,SA,March,2017,Saturday,03:00,Single vehicle,No,No,No,110,Driver,Male,19
+20174044,SA,March,2017,Wednesday,07:13,Single vehicle,No,No,No,70,Motorcycle rider,Male,22
+20174073,SA,March,2017,Wednesday,22:00,Multiple vehicle,No,No,No,40,Motorcycle rider,Male,23
+20174077,SA,March,2017,Monday,16:10,Multiple vehicle,No,No,No,110,Motorcycle rider,Male,73
+20174084,SA,March,2017,Thursday,19:10,Single vehicle,No,No,No,100,Driver,Male,54
+20175029,WA,March,2017,Friday,12:40,Single vehicle,No,No,No,110,Driver,Male,85
+20175037,WA,March,2017,Wednesday,14:40,Single vehicle,No,No,No,110,Driver,Male,79
+20175038,WA,March,2017,Tuesday,08:00,Single vehicle,No,No,No,110,Driver,Male,32
+20175041,WA,March,2017,Sunday,14:43,Multiple vehicle,No,No,No,110,Driver,Female,25
+20175044,WA,March,2017,Wednesday,09:45,Multiple vehicle,No,No,No,70,Bicyclist (includes pillion passengers),Male,74
+20175064,WA,March,2017,Monday,11:00,Single vehicle,No,No,No,110,Driver,Female,55
+20175074,WA,March,2017,Thursday,20:20,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,52
+20175079,WA,March,2017,Thursday,17:40,Single vehicle,No,No,No,110,Driver,Male,53
+20175101,WA,March,2017,Thursday,14:28,Multiple vehicle,No,No,No,50,Passenger,Male,27
+20175103,WA,March,2017,Tuesday,19:39,Multiple vehicle,No,No,No,50,Pedestrian,Male,7
+20175118,WA,March,2017,Monday,15:15,Single vehicle,No,No,No,60,Other,Female,98
+20175135,WA,March,2017,Tuesday,17:15,Single vehicle,No,No,No,50,Motorcycle rider,Male,17
+20175138,WA,March,2017,Thursday,02:00,Single vehicle,No,No,No,110,Driver,Male,34
+20175141,WA,March,2017,Friday,11:02,Multiple vehicle,No,No,Yes,80,Motorcycle rider,Male,54
+20175144,WA,March,2017,Saturday,04:45,Single vehicle,No,No,No,20,Passenger,Female,48
+20176027,TAS,March,2017,Saturday,13:20,Multiple vehicle,No,No,No,100,Motorcycle rider,Male,47
+20176034,TAS,March,2017,Thursday,11:29,Single vehicle,No,No,No,50,Motorcycle rider,Male,16
+20177016,NT,March,2017,Thursday,20:40,Single vehicle,No,No,No,60,Motorcycle rider,Male,22
+20177022,NT,March,2017,Friday,23:30,Single vehicle,No,No,No,80,Passenger,Male,32
+20178005,ACT,March,2017,Friday,06:25,Multiple vehicle,No,No,No,100,Bicyclist (includes pillion passengers),Male,35
+20171005,NSW,February,2017,Thursday,21:15,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,24
+20171011,NSW,February,2017,Tuesday,09:48,Multiple vehicle,No,Yes,No,110,Driver,Female,39
+20171013,NSW,February,2017,Friday,17:44,Single vehicle,No,No,No,80,Driver,Male,38
+20171016,NSW,February,2017,Saturday,20:30,Single vehicle,No,No,No,100,Motorcycle rider,Male,47
+20171044,NSW,February,2017,Sunday,16:15,Multiple vehicle,No,No,No,110,Driver,Male,32
+20171078,NSW,February,2017,Friday,12:50,Pedestrian,No,Yes,No,50,Pedestrian,Male,80
+20171080,NSW,February,2017,Wednesday,21:50,Multiple vehicle,No,No,Yes,110,Driver,Female,87
+20171087,NSW,February,2017,Thursday,21:10,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,34
+20171155,NSW,February,2017,Friday,08:26,Pedestrian,No,No,No,40,Pedestrian,Female,31
+20171159,NSW,February,2017,Thursday,13:00,Single vehicle,No,No,No,50,Passenger,Female,64
+20171187,NSW,February,2017,Saturday,04:25,Multiple vehicle,No,No,Yes,110,Driver,Male,21
+20171194,NSW,February,2017,Thursday,17:06,Single vehicle,No,No,No,100,Driver,Female,36
+20171237,NSW,February,2017,Sunday,12:50,Single vehicle,No,No,No,80,Driver,Male,22
+20171246,NSW,February,2017,Wednesday,07:45,Single vehicle,No,No,No,80,Passenger,Male,88
+20171250,NSW,February,2017,Thursday,18:20,Multiple vehicle,No,Yes,No,80,Motorcycle rider,Male,45
+20171305,NSW,February,2017,Monday,14:50,Multiple vehicle,No,No,No,50,Passenger,Female,86
+20171327,NSW,February,2017,Friday,02:00,Multiple vehicle,No,No,Yes,80,Driver,Male,15
+20171348,NSW,February,2017,Wednesday,15:50,Multiple vehicle,No,No,Yes,80,Driver,Male,48
+20172002,VIC,February,2017,Friday,17:22,Multiple vehicle,No,Yes,No,80,Driver,Male,45
+20172029,VIC,February,2017,Wednesday,16:00,Multiple vehicle,No,No,No,100,Driver,Female,63
+20172038,VIC,February,2017,Sunday,14:45,Multiple vehicle,No,No,No,100,Driver,Female,22
+20172049,VIC,February,2017,Thursday,14:00,Single vehicle,No,No,No,100,Driver,Male,62
+20172051,VIC,February,2017,Wednesday,10:55,Single vehicle,No,No,No,100,Driver,Female,53
+20172069,VIC,February,2017,Thursday,11:30,Single vehicle,No,No,No,100,Driver,Male,76
+20172076,VIC,February,2017,Monday,08:35,Multiple vehicle,No,No,No,70,Driver,Male,41
+20172077,VIC,February,2017,Monday,07:00,Single vehicle,No,No,No,100,Driver,Male,40
+20172093,VIC,February,2017,Thursday,07:40,Single vehicle,No,Yes,No,100,Driver,Male,25
+20172116,VIC,February,2017,Friday,20:40,Single vehicle,No,No,No,100,Driver,Male,55
+20172117,VIC,February,2017,Tuesday,14:45,Single vehicle,No,No,Yes,100,Driver,Male,59
+20172136,VIC,February,2017,Wednesday,18:44,Single vehicle,No,No,No,100,Driver,Male,70
+20172137,VIC,February,2017,Saturday,15:15,Single vehicle,No,No,No,100,Motorcycle rider,Male,43
+20172161,VIC,February,2017,Monday,15:36,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,33
+20172162,VIC,February,2017,Thursday,21:32,Single vehicle,No,No,No,80,Driver,Male,38
+20172195,VIC,February,2017,Friday,22:44,Single vehicle,No,No,No,50,Passenger,Male,40
+20172196,VIC,February,2017,Monday,12:05,Multiple vehicle,No,No,No,110,Driver,Male,78
+20172210,VIC,February,2017,Friday,07:30,Single vehicle,No,No,No,100,Driver,Male,18
+20173015,QLD,February,2017,Saturday,07:00,Single vehicle,No,No,No,110,Driver,Female,59
+20173031,QLD,February,2017,Sunday,19:00,Pedestrian,No,No,No,60,Pedestrian,Male,75
+20173039,QLD,February,2017,Thursday,22:00,Single vehicle,No,No,Yes,80,Driver,Male,59
+20173042,QLD,February,2017,Friday,05:00,Multiple vehicle,No,No,No,60,Bicyclist (includes pillion passengers),Male,50
+20173048,QLD,February,2017,Wednesday,15:00,Multiple vehicle,No,No,Yes,100,Driver,Female,19
+20173076,QLD,February,2017,Sunday,10:00,Single vehicle,No,No,No,80,Motorcycle rider,Male,34
+20173078,QLD,February,2017,Friday,18:00,Single vehicle,No,No,No,110,Passenger,Male,21
+20173086,QLD,February,2017,Saturday,03:00,Single vehicle,No,No,No,60,Driver,Female,21
+20173086,QLD,February,2017,Saturday,03:00,Single vehicle,No,No,No,60,Passenger,Male,20
+20173108,QLD,February,2017,Friday,19:00,Multiple vehicle,No,No,No,80,Driver,Male,62
+20173123,QLD,February,2017,Tuesday,16:00,Multiple vehicle,Yes,No,No,80,Driver,Male,82
+20173189,QLD,February,2017,Sunday,03:00,Single vehicle,No,No,No,60,Motorcycle rider,Male,30
+20173196,QLD,February,2017,Friday,22:00,Pedestrian,Yes,No,No,50,Pedestrian,Male,22
+20173197,QLD,February,2017,Tuesday,17:00,Multiple vehicle,No,No,No,100,Driver,Male,56
+20173198,QLD,February,2017,Wednesday,15:00,Multiple vehicle,No,No,No,100,Driver,Male,20
+20173199,QLD,February,2017,Saturday,17:00,Single vehicle,No,No,No,70,Driver,Female,68
+20173205,QLD,February,2017,Thursday,15:00,Single vehicle,No,No,No,100,Passenger,Female,18
+20173206,QLD,February,2017,Monday,11:00,Multiple vehicle,No,No,No,60,Driver,Female,85
+20174061,SA,February,2017,Monday,23:15,Single vehicle,No,No,No,100,Passenger,Male,34
+20174062,SA,February,2017,Friday,16:15,Multiple vehicle,No,No,Yes,100,Driver,Male,49
+20174085,SA,February,2017,Sunday,20:05,Pedestrian,No,No,No,50,Pedestrian,Male,2
+20174092,SA,February,2017,Wednesday,10:50,Single vehicle,No,No,No,10,Driver,Female,93
+20175009,WA,February,2017,Friday,09:30,Single vehicle,No,No,No,110,Passenger,Female,84
+20175020,WA,February,2017,Friday,18:15,Single vehicle,No,No,No,50,Motorcycle rider,Male,25
+20175059,WA,February,2017,Sunday,05:21,Single vehicle,No,No,No,110,Driver,Male,62
+20175099,WA,February,2017,Saturday,16:45,Multiple vehicle,No,No,No,110,Driver,Female,61
+20175106,WA,February,2017,Friday,16:45,Multiple vehicle,No,No,No,100,Passenger,Male,25
+20175136,WA,February,2017,Friday,15:55,Multiple vehicle,No,Yes,No,110,Driver,Male,58
+20175147,WA,February,2017,Saturday,15:35,Single vehicle,No,No,No,110,Passenger,Male,83
+20176031,TAS,February,2017,Monday,13:50,Multiple vehicle,No,Yes,No,100,Motorcycle rider,Male,36
+20177008,NT,February,2017,Sunday,00:45,Single vehicle,No,No,No,100,Driver,Male,20
+20177023,NT,February,2017,Saturday,02:26,Pedestrian,No,No,No,100,Pedestrian,Male,15
+20177023,NT,February,2017,Saturday,02:26,Pedestrian,No,No,No,100,Pedestrian,Male,15
+20178002,ACT,February,2017,Monday,12:15,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,22
+20171066,NSW,January,2017,Monday,18:10,Single vehicle,No,No,No,50,Driver,Male,28
+20171086,NSW,January,2017,Thursday,21:50,Single vehicle,No,No,No,100,Driver,Male,29
+20171097,NSW,January,2017,Wednesday,21:30,Single vehicle,No,No,No,100,Driver,Male,23
+20171102,NSW,January,2017,Wednesday,13:12,Multiple vehicle,No,No,No,60,Driver,Female,54
+20171102,NSW,January,2017,Wednesday,13:12,Multiple vehicle,No,No,No,60,Passenger,Female,75
+20171102,NSW,January,2017,Wednesday,13:12,Multiple vehicle,No,No,No,60,Passenger,Male,79
+20171104,NSW,January,2017,Saturday,07:50,Single vehicle,No,Yes,No,70,Driver,Male,69
+20171107,NSW,January,2017,Wednesday,11:55,Multiple vehicle,Yes,No,Yes,100,Passenger,Female,78
+20171121,NSW,January,2017,Thursday,10:18,Pedestrian,No,No,Yes,60,Pedestrian,Male,56
+20171138,NSW,January,2017,Monday,12:05,Pedestrian,No,Yes,No,60,Pedestrian,Female,51
+20171167,NSW,January,2017,Monday,13:15,Multiple vehicle,No,No,No,80,Motorcycle rider,Male,26
+20171174,NSW,January,2017,Saturday,17:25,Multiple vehicle,No,No,No,70,Motorcycle rider,Male,22
+20171197,NSW,January,2017,Monday,14:28,Multiple vehicle,No,No,No,100,Driver,Male,34
+20171197,NSW,January,2017,Monday,14:28,Multiple vehicle,No,No,No,100,Passenger,Female,52
+20171203,NSW,January,2017,Monday,10:50,Single vehicle,No,No,No,70,Driver,Female,71
+20171212,NSW,January,2017,Tuesday,14:15,Multiple vehicle,No,Yes,Yes,100,Driver,Male,29
+20171212,NSW,January,2017,Tuesday,14:15,Multiple vehicle,No,Yes,Yes,100,Driver,Male,52
+20171215,NSW,January,2017,Tuesday,17:25,Multiple vehicle,No,No,No,90,Motorcycle rider,Male,44
+20171258,NSW,January,2017,Tuesday,14:20,Multiple vehicle,No,No,No,100,Driver,Female,20
+20171271,NSW,January,2017,Friday,23:55,Single vehicle,No,No,No,100,Driver,Male,62
+20171280,NSW,January,2017,Saturday,12:58,Multiple vehicle,No,No,No,100,Driver,Female,19
+20171285,NSW,January,2017,Friday,21:30,Single vehicle,No,No,No,100,Driver,Male,36
+20171287,NSW,January,2017,Tuesday,17:40,Multiple vehicle,No,No,No,80,Motorcycle rider,Male,60
+20171299,NSW,January,2017,Friday,13:55,Multiple vehicle,No,No,Yes,90,Driver,Male,17
+20171303,NSW,January,2017,Monday,02:45,Pedestrian,No,Yes,No,60,Pedestrian,Female,48
+20171308,NSW,January,2017,Friday,18:00,Single vehicle,No,No,No,100,Driver,Male,84
+20171313,NSW,January,2017,Sunday,22:25,Single vehicle,No,No,No,100,Driver,Male,18
+20171318,NSW,January,2017,Friday,14:29,Single vehicle,No,No,No,50,Driver,Male,91
+20171325,NSW,January,2017,Monday,13:30,Single vehicle,No,No,No,80,Driver,Male,59
+20172016,VIC,January,2017,Wednesday,14:30,Multiple vehicle,No,No,Yes,100,Other,Female,61
+20172026,VIC,January,2017,Monday,07:59,Pedestrian,No,No,No,60,Pedestrian,Female,53
+20172027,VIC,January,2017,Sunday,16:50,Multiple vehicle,No,No,No,100,Passenger,Female,38
+20172030,VIC,January,2017,Sunday,04:30,Pedestrian,No,No,No,100,Pedestrian,Male,23
+20172035,VIC,January,2017,Friday,17:00,Multiple vehicle,No,No,No,100,Passenger,Female,17
+20172044,VIC,January,2017,Saturday,00:35,Single vehicle,No,No,No,60,Passenger,Male,19
+20172057,VIC,January,2017,Thursday,17:28,Multiple vehicle,No,No,No,100,Driver,Male,44
+20172058,VIC,January,2017,Friday,03:50,Single vehicle,No,No,No,100,Driver,Male,18
+20172079,VIC,January,2017,Tuesday,16:00,Multiple vehicle,No,No,Yes,110,Driver,Female,79
+20172082,VIC,January,2017,Tuesday,16:30,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,41
+20172086,VIC,January,2017,Wednesday,18:50,Multiple vehicle,No,No,No,100,Driver,Male,24
+20172096,VIC,January,2017,Saturday,16:47,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,75
+20172101,VIC,January,2017,Monday,15:30,Single vehicle,No,No,No,50,Passenger,Female,96
+20172112,VIC,January,2017,Thursday,08:55,Multiple vehicle,No,Yes,No,-9,Motorcycle rider,Female,45
+20172143,VIC,January,2017,Friday,16:45,Single vehicle,No,No,No,100,Passenger,Female,3
+20172169,VIC,January,2017,Sunday,16:50,Multiple vehicle,No,No,No,100,Passenger,Male,52
+20172188,VIC,January,2017,Wednesday,03:50,Single vehicle,No,No,No,100,Driver,Male,26
+20173004,QLD,January,2017,Sunday,09:00,Single vehicle,No,No,No,80,Motorcycle rider,Male,27
+20173009,QLD,January,2017,Friday,22:00,Single vehicle,No,No,No,50,Motorcycle rider,Female,59
+20173014,QLD,January,2017,Saturday,06:00,Multiple vehicle,No,No,No,100,Motorcycle rider,Male,40
+20173040,QLD,January,2017,Friday,01:00,Single vehicle,No,No,No,100,Driver,Male,24
+20173041,QLD,January,2017,Monday,17:00,Multiple vehicle,No,No,No,80,Passenger,Female,67
+20173053,QLD,January,2017,Monday,18:00,Single vehicle,No,No,No,70,Driver,Male,61
+20173059,QLD,January,2017,Friday,18:00,Single vehicle,No,No,No,80,Motorcycle rider,Male,50
+20173062,QLD,January,2017,Wednesday,19:00,Multiple vehicle,No,No,No,100,Motorcycle rider,Male,69
+20173067,QLD,January,2017,Friday,19:00,Multiple vehicle,No,No,No,50,Passenger,Male,19
+20173071,QLD,January,2017,Saturday,14:00,Multiple vehicle,No,No,No,90,Passenger,Female,21
+20173071,QLD,January,2017,Saturday,14:00,Multiple vehicle,No,No,No,90,Passenger,Female,52
+20173072,QLD,January,2017,Tuesday,12:00,Multiple vehicle,No,No,Yes,100,Driver,Female,79
+20173090,QLD,January,2017,Tuesday,12:00,Pedestrian,Yes,No,No,50,Pedestrian,Female,1
+20173128,QLD,January,2017,Thursday,15:00,Multiple vehicle,No,No,No,60,Passenger,Female,70
+20173129,QLD,January,2017,Thursday,00:00,Single vehicle,No,No,No,80,Driver,Male,41
+20173147,QLD,January,2017,Monday,03:00,Pedestrian,No,No,No,100,Pedestrian,Female,30
+20173154,QLD,January,2017,Saturday,11:00,Single vehicle,No,No,No,80,Motorcycle pillion passenger,Female,49
+20173171,QLD,January,2017,Tuesday,16:00,Multiple vehicle,No,No,No,100,Driver,Male,74
+20173175,QLD,January,2017,Tuesday,12:00,Pedestrian,No,Yes,Yes,100,Pedestrian,Male,34
+20173200,QLD,January,2017,Sunday,00:00,Pedestrian,No,No,No,50,Pedestrian,Female,64
+20173210,QLD,January,2017,Friday,22:00,Single vehicle,No,No,No,80,Motorcycle rider,Male,41
+20173211,QLD,January,2017,Tuesday,03:00,Multiple vehicle,No,No,No,100,Driver,Male,57
+20173227,QLD,January,2017,Tuesday,22:00,Single vehicle,No,No,No,50,Motorcycle rider,Male,31
+20174028,SA,January,2017,Wednesday,21:00,Pedestrian,No,No,No,50,Pedestrian,Female,45
+20174080,SA,January,2017,Friday,00:15,Multiple vehicle,No,Yes,No,110,Driver,Male,62
+20174083,SA,January,2017,Tuesday,09:25,Multiple vehicle,No,No,No,100,Driver,Female,81
+20174094,SA,January,2017,Friday,15:25,Multiple vehicle,No,No,No,90,Driver,Male,89
+20174094,SA,January,2017,Friday,15:25,Multiple vehicle,No,No,No,90,Passenger,Female,93
+20175017,WA,January,2017,Monday,11:43,Single vehicle,No,No,No,80,Driver,Male,79
+20175025,WA,January,2017,Sunday,10:23,Single vehicle,No,No,No,-9,Driver,Male,89
+20175031,WA,January,2017,Friday,17:30,Single vehicle,No,No,No,90,Driver,Male,36
+20175032,WA,January,2017,Saturday,01:33,Single vehicle,No,No,No,70,Driver,Male,23
+20175035,WA,January,2017,Tuesday,15:21,Multiple vehicle,No,No,No,70,Motorcycle rider,Male,23
+20175055,WA,January,2017,Monday,18:27,Single vehicle,No,No,No,110,Driver,Male,24
+20175060,WA,January,2017,Wednesday,18:30,Single vehicle,No,No,No,80,Passenger,Male,10
+20175093,WA,January,2017,Sunday,12:11,Multiple vehicle,No,No,No,110,Passenger,Male,67
+20175093,WA,January,2017,Sunday,12:11,Multiple vehicle,No,No,No,110,Passenger,Female,68
+20175095,WA,January,2017,Sunday,16:30,Multiple vehicle,No,No,No,100,Motorcycle rider,Male,21
+20175096,WA,January,2017,Monday,01:20,Multiple vehicle,No,Yes,No,50,Driver,Male,48
+20175112,WA,January,2017,Tuesday,19:58,Multiple vehicle,No,No,No,60,Motorcycle pillion passenger,Male,14
+20175113,WA,January,2017,Wednesday,05:15,Single vehicle,No,No,No,110,Driver,Male,24
+20175115,WA,January,2017,Tuesday,12:48,Multiple vehicle,No,No,No,60,Pedestrian,Male,4
+20175132,WA,January,2017,Sunday,17:14,Multiple vehicle,No,No,No,70,Driver,Male,25
+20175145,WA,January,2017,Saturday,21:30,Single vehicle,No,No,No,20,Passenger,Male,19
+20176005,TAS,January,2017,Friday,19:00,Single vehicle,No,No,No,100,Motorcycle rider,Male,46
+20176028,TAS,January,2017,Friday,16:10,Multiple vehicle,No,No,No,60,Motorcycle rider,Male,42
+20177004,NT,January,2017,Wednesday,16:58,Multiple vehicle,No,No,No,110,Driver,Male,17
+20177004,NT,January,2017,Wednesday,16:58,Multiple vehicle,No,No,No,110,Passenger,Female,66
+20177006,NT,January,2017,Tuesday,23:30,Pedestrian,No,No,No,130,Pedestrian,Male,39
+20178004,ACT,January,2017,Thursday,16:00,Single vehicle,No,No,No,-9,Passenger,Male,30

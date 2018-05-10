@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+
+
+<head>
+  <title> Template Project</title>
+  <!-- CSS -->
+  <link href="main.css" rel="stylesheet">
+  <!-- jQuery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <!-- Greensock -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.4/TweenMax.min.js"></script>
+  <!-- Google font -->
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,700,800,900" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet">
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+</head>
+
+<body>
+<div class="background">
+  <div class="message">Over 1400 people have left their families without saying goodbye last year.</div>
+  <div class="message2">Speeding accounts for over 1400 deaths a year across Australia.</div>
+  <div class="message3">Drivers are often unware of the impact a few kilometres can have</div>
+  <div class="button">➜</div>
+  <div class="logo_bottom"><img src="Australian+Government.png" alt="Australian+Government"> <p>A Queensland Government initiative for safer roads, safer Queensland.</p>
+</div>
+</div>
+
+
+<div class="header"><img src="Queensland logo.svg" alt="Queensland logo"></div>
+<div class="menubar">
+  <div class="menuitem">Home</div>
+  <div class="menuitem">Licensing</div>
+  <div class="menuitem">Registration</div>
+  <div class="menuitem">Safety</div>
+  <div class="menuitem">Travel and transport</div>
+  <div class="menuitem">Projects</div>
+  <div class="menuitem">Business and industry</div>
+  <div class="menuitem">Community and enviorment</div>
+  <div class="menuitem">About us</div>
+</div>
+<div class="graphicbox">
+<div class="graphicheader"><h2>2017 speed related deaths across Australia</h></div>
+  <div class="counterbox"></div>
+  <div class="graphic">
+    <div class="svg_container">
+      <svg width="900" height="400" class="svg1"></svg>
+    </div>
+    <div class="infobox"><div class="line"></div></div>
+    <div class="graphicbuttons">
+              <div class="statebuttonline"><h3>Display State</h></div>
+              <div class="statebuttonline">
+                <div class="statename">Queensland</div>
+                <button class="on" id="qldon"> ON </button>
+                <button class="off" id="qldoff"> OFF </button>
+              </div>
+
+              <div class="statebuttonline">
+                <div class="statename">Victoria</div>
+                <button class="on" id="vicon"> ON </button>
+                <button class="off" id="vicoff"> OFF </button>
+              </div>
+
+              <div class="statebuttonline">
+                <div class="statename">Northern Territory</div>
+                <button class="on" id="nton"> ON </button>
+                <button class="off" id="ntoff"> OFF </button>
+              </div>
+
+
+              <div class="statebuttonline">
+                <div class="statename">New South Wales</div>
+                <button class="on" id="nswon"> ON </button>
+                <button class="off" id="nswoff"> OFF </button>
+              </div>
+
+
+              <div class="statebuttonline">
+                <div class="statename">Western Australia</div>
+                <button class="on" id="waon"> ON </button>
+                <button class="off" id="waoff"> OFF </button>
+              </div>
+
+
+              <div class="statebuttonline">
+                <div class="statename">Tasmania</div>
+                <button class="on" id="tason"> ON </button>
+                <button class="off" id="tasoff"> OFF </button>
+              </div>
+
+
+              <div class="statebuttonline">
+                <div class="statename">ACT</div>
+                <button class="on" id="acton"> ON </button>
+                <button class="off" id="actoff"> OFF </button>
+              </div>
+
+              <div class="statebuttonline">
+                <div class="statename">South Australia</div>
+                <button class="on" id="saon"> ON </button>
+                <button class="off" id="saoff"> OFF </button>
+              </div>
+</div>
+
+  </div>
+
+<div class="infoline" id="link"> <a href="https://bitre.gov.au/statistics/safety/files/BITRE_ARDD_Fatalities_March_2018.csv"><img src="2000px-Microsoft_Excel_2013_logo.svg.png" alt="2000px-Microsoft_Excel_2013_logo">  ABS Roadside statistics.csv
+</a></div>
+
+</div>
+<div class="contentarea"></div>
+<div class="footermenu">
+<div class="footeritems">
+  <div class="infoline"><h4>Popular</h></div>
+  <div class="infoline"><p>Find a form</p></div>
+  <div class="infoline"><p>Traffic cameras</p></div>
+  <div class="infoline"><p>Find a customer service centre</p></div>
+  <div class="infoline"><p>Queensland road rules</p></div>
+  <div class="infoline"><p>Driver licensing</p></div>
+</div>
+
+<div class="footeritems">
+  <div class="infoline"><h4>Looking for</h></div>
+  <div class="infoline"><p>Annual report</p></div>
+  <div class="infoline"><p>Buying or selling a vehicle</p></div>
+  <div class="infoline"><p>Demerit points</p></div>
+  <div class="infoline"><p>Getting a licence</p></div>
+  <div class="infoline"><p>Learning to drive</p></div>
+  <div class="infoline"><p>Registering Vehicles</p></div>
+  <div class="infoline"><p>Our projects</p></div>
+
+
+</div>
+
+<div class="footeritems">
+  <div class="infoline"><h4>Online services</h></div>
+  <div class="infoline"><p>Pay your fine</p></div>
+  <div class="infoline"><p>Renew your license</p></div>
+  <div class="infoline"><p>Change your adress</p></div>
+  <div class="infoline"><p>Renew your registration</p></div>
+  <div class="infoline"><p>Book a driving test</p></div>
+  <div class="infoline"><p>Book a vehicle inspection</p></div>
+</div>
+
+<div class="footeritems">
+  <div class="infoline"><h4>Related sites</h></div>
+  <div class="infoline"><p>QLDTraffic</p></div>
+  <div class="infoline"><p>Maritime Safety Queensland</p></div>
+  <div class="infoline"><p>Translink</p></div>
+  <div class="infoline"><p>Personalised Plates Queensland</p></div>
+  <div class="infoline"><p>Queensland rail</p></div>
+</div>
+
+<div class="footeritems">
+  <div class="infoline"><h4>Contact us</h></div>
+  <div class="infoline"><p>Phone</p></div>
+  <div class="infoline"><p>Online</p></div>
+  <div class="infoline"><p>Visit us</p></div>
+  <div class="infoline"><p>Mail</p></div>
+  <div class="infoline"><p>Compliments and complaints</p></div>
+  <div class="infoline"><p>Get involved consultations</p></div>
+  <div class="infoline"><p>Facebook</p></div>
+  <div class="infoline"><p>Twitter</p></div>
+  <div class="infoline"><p>Blog</p></div>
+</div>
+
+</div>
+
+<div class="footer">
+<ul>
+  <li>Copyright</li>
+  <li>Disclaimer</li>
+  <li>Privacy</li>
+  <li>Right to Information</li>
+  <li>Accessibility</li>
+  <li>Jobs in Queensland Government</li>
+  <li>Other languages</li>
+</ul>
+© The State of Queensland (Department of Transport and Main Roads) 2010–2018 <br>
+Queensland Government
+</div>
+
+
+<script src="script.js"></script>
+<script src="d3_data.js"></script>
+<script src="toggle_state.js"></script>
+
+
+</body>
